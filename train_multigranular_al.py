@@ -67,7 +67,7 @@ def get_arguments():
     parser.add_argument("--query_times", type=int, default=5)
     parser.add_argument("--log", type=str, default='log/train_sup.txt')
     parser.add_argument("--save_dir", type=str)
-    parser.add_argument("--init_csv", type=str, default="al_file/query_round_1.csv")
+    parser.add_argument("--init_csv", type=str, default="al_file/query_round_4.csv")
     parser.add_argument("--id_cls", nargs="+", type=int, default=[3,6,8])
     parser.add_argument("--ood_cls", nargs="+", type=int, default=[0,1,2,4,5,7])
     parser.add_argument("--id_ratio", type=float, default=1e-3)
