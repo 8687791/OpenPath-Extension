@@ -1,0 +1,1542 @@
+[
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HAEQRDMV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic components",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GLKYPQIY.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to be from the gastrointestinal tract, likely the colon, given the glandular structures",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-ISHEDMAH.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CNPIVPTM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains elongated, spindle-shaped cells with centr",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CLECFETF.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic components",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WGHEEDQL.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, indicative of a pathological process. The cells appear to be closely packed, with a high nucleus-to-cytoplasm ratio, a characteristic",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MMIDNPYW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining.\n\n###",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AGWVKSQS.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PCDQMMWQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several key features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LSPKQESK.tif",
+        "report": "This histopathology image appears to be stained with Hematoxylin and Eosin (H&E). The image shows a tissue sample with large, clear spaces, which are characteristic of cells that typically store energy in the form of",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-QFYAVPMW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Morphology of the Tissue**:\n   - The tissue appears to have elongated",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-WCAAWAHQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei,",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HAWWHRIM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, with some appearing to be",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GLSGDKKT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-HHTSMLTI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GSMFKKTH.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-AEQNELYY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DVTIDWHR.tif",
+        "report": "This H&E (Hematoxylin and Eosin) pathology image appears to show a large, irregularly shaped mass with a dark purple (hematoxylin) staining, indicative of a dense cellular region",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LPLKIRYN.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-SWSFVRPY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IEIWNVHK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a tissue sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytopl",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-CVAAMYWN.tif",
+        "report": "This H&E pathology image shows a densely cellular area with numerous small, round cells. The predominant feature is the high cellularity, with a significant number of cells closely packed together. The cells exhibit a high nuclear-to-c",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FKSSWRTQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic components",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GKDNSCHA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained in shades of purple. The eosin stain highlights the cytoplasm and extrac",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-RYRWQNLD.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to be from the gastrointestinal tract, likely the colon, given the glandular structures",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CCIFQYEP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample with a predominance of pink and purple hues, typical of H&E staining. Here's an analysis of the main",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NYAKDHQW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample with a predominantly pink background, typical of eosin staining, which highlights cytoplasmic components and extracellular",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IKDLHMQT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WKVDSTTG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed cellular field with prominent nuclei stained dark purple by hematoxylin. The eosin stain highlights the cytoplasm",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CGYACESE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FCMQQLND.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense population of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish background,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CGMGHRVQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The pink areas",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VVDAEGPN.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the high density of cells, which suggests a significant pathological process. The cells appear to",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-HLHRSLQV.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Epithelial Structures**: The image prominently features g",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FFRYAGPE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain smooth muscle tissue, identifiable by the el",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GGPYGPDR.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is eosinophilic (p",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MLVNVQIQ.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have glandular structures, which are characteristic of epithelial tissue. The glands are",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SHLFLRFT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is eosinophilic (p",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-MIWKVLGP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain smooth muscle tissue, identifiable by the el",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PQGYSCMI.tif",
+        "report": "This histopathology image appears to be stained with Hematoxylin and Eosin (H&E), a common staining method used to highlight cellular and tissue structures. Here's a detailed analysis:\n\n### Main Pathological Features:",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LVRIGPGN.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells appear to have large, hyperchromatic nuclei",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CEPDWQFM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of pink and purple hues, typical of H&E staining. The image appears to be a histological section",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GCHDSYDC.tif",
+        "report": "This H&E pathology image shows a densely cellular field with prominent nuclei, stained in varying shades of purple. The predominant feature is the presence of numerous small, round to oval nuclei, which are stained dark purple,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HQYIVRAT.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells appear to have enlarged, hyperchromatic",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RNYMWWFH.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the high density of cells, which suggests a significant pathological process. The cells appear to",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TVKENFCC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense cellular field with prominent nuclei stained dark purple by hematoxylin. The eosin stain provides a pinkish background, highlighting the",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FYMKLGWM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CPDWGNWW.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The cells appear to be arranged in a glandular pattern, which is typical of certain types of epith",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EAGHQEIR.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The tissue appears to have a glandular structure, which is indicative of a glandular epithel",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PVAVRAPN.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains a dense population of cells with varying sizes and shapes. The cells appear to have hyperchromatic",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HRGWMIPD.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SESSWLMI.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have glandular structures, which are indicative of a glandular origin. The g",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GPGDGVMV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-PFTANWEI.tif",
+        "report": "This H&E pathology image shows a tissue sample with a predominance of eosinophilic (pink) staining, indicative of protein-rich areas. The pink areas suggest the presence of mucin, which",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FHFHECWI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous elongated, spindle-shaped cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KPYEQMPM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of pink and purple hues, typical of H&E staining. Here's an analysis of the main features:",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GHKAPGRD.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasm",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HIMNRVDP.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with large, hyperchromatic nuclei, indicating increased nuclear-to-cytopl",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CYYFWAEK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-THSQAQAM.tif",
+        "report": "This histopathology image appears to be stained with Hematoxylin and Eosin (H&E), a common staining method used to highlight cellular and tissue structures. Here's a detailed analysis:\n\n### Main Pathological Features:",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PNPLIWLC.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The image reveals a densely packed arrangement of cells, which is indicative of a high cellular density. The cells",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-SPVLCASW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, with some appearing to be",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-LAQMFHNE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TMRTHHIC.tif",
+        "report": "This H&E pathology image shows a dense aggregation of cells with prominent nuclei, indicative of a pathological process. The predominant feature is the presence of numerous darkly stained nuclei, suggesting a high cellularity. The",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AEMEWFCI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample of tissue with a purple background and scattered dark purple spots. The tissue structure is relatively uniform, with no distinct masses or irregularities",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TSMHMFMK.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The image reveals a densely packed arrangement of cells, which is indicative of a high cellular density.\n\n2.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FSDADCYH.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-VKYYHEIA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-FVMADIGL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QVAVHLFG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense population of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YIAGDYYT.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have glandular structures, which are characteristic of epithelial tissue. The glands are",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PVCYTQTT.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-NGVTYHQY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-REVFWVVI.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, stained in varying shades of purple. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, which are indic",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-AFFRYTFC.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ETMSPTRE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense cellular field with prominent nuclei stained dark purple by hematoxylin. The background is eosinophilic (pink),",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KTNFSLGW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed field of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DNVMHYFP.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The cells appear to be arranged in glandular structures, which is characteristic of certain types of epithelial",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RNFCNGHC.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The tissue appears to have a glandular structure, which is indicative of a glandular epithel",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NIWAFVQN.tif",
+        "report": "This histopathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains large, clear spaces which are indicative of cells with large, lipid-filled vacuoles. These vac",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-IYQMKHTN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KPSGLRMP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a light pink background, indicating the presence of eosinophilic material. The image appears to contain a mix of lighter and",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ENTNCPCV.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, which are likely",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-IYSREYIS.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key pathological features:\n\n1. **Cellular Architecture**: The tissue appears to have g",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-SKDILVWV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HLSCGPKN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains elongated, spindle-shaped cells with centr",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MWPIGWSE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VYEGNTLC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely cellular field with prominent nuclei stained dark purple by hematoxylin. The eosin stain has provided a pinkish background,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VMMAYYMG.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells appear to have hyperchromatic nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-EFTIGTKT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FYVIHMDF.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a pinkish background and scattered dark purple or blue spots. The background appears to be a homogeneous pink, typical of H&E",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TLGRNAKC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. Here's a",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IKKLHLPG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of pink and purple hues, typical of H&E staining. Here's an analysis of the main features:",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NCQHHNAC.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, indicative of a high cellular density. The cells appear to be closely packed, with minimal extracellular space, suggesting a possible pathological process.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-FYCGYAAP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IRDSFVGW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CLETDQVV.tif",
+        "report": "This histopathology image shows a tissue sample stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Cellular Architecture**: The tissue appears to have large, clear spaces",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KGCGRHQP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense population of cells with prominent nuclei, characteristic of a pathological process. The image features include:\n\n1. **Cellularity**: The",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EETHYKEE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense, irregularly distributed mass of cells. The predominant coloration is pink, indicating the presence of eosinophilic cytop",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-FGINFQSY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained in shades of purple and pink. The predominant feature is the presence of numerous small, round",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-HDESGFCT.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Goblet Cells**: These are identifiable by their m",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CYHEHTPG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TYVDQYAT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KDEQKVWM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed field of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GKNHKNWR.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely cellular field with a predominance of pink-stained eosinophilic material, indicative of hematoxylin-stained",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-ASHHQWCV.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to contain smooth muscle tissue, identifiable by the elongated, spindle-shaped cells arranged in",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FSSAIPCW.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, stained in varying shades of purple. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, indicative of",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-RKFDDIPQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FMWIYNCW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells and extracellular matrix.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LRREDCDW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample with a predominance of eosinophilic (pink) staining, indicating a high cellularity area. The",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-IWCADWFP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to contain muscle tissue, identifiable by the el",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TKHWRESH.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The image appears",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-QYEFNENG.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to be composed of glandular structures, which are irregular in shape and size. The glands",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KRRTLSLA.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the high cellularity, with numerous cells closely packed together. The nuclei appear hyperchrom",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NGRAWFLE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample of tissue with a pink and purple coloration, typical of H&E staining. Here's an analysis of the main features",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GAAEGAYY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The pink areas",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YGLPWQYA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense, irregularly arranged tissue sample. The predominant coloration is a mix of pink and purple hues, typical of H&E st",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ENQNLMQE.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with large, hyperchromatic nuclei, which are indicative of increased nuclear-to",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KFAEICPW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-NNKMPHIG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cellular and acellular components. There",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-HWFLEKNR.tif",
+        "report": "This histopathology image shows a tissue sample stained with Hematoxylin and Eosin (H&E). The image reveals a dense population of cells with prominent nuclei, characteristic of a lymph node. \n\n### Key Pathological",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HGIAHVLT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-HRSMLKEP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains large, clear spaces which are indicative of cells",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KWLMNHAP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RNVKMETW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed field of cells with prominent nuclei, stained dark purple by hematoxylin. The background is eosinophilic",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KSKIKREP.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasm",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RKCNMPGV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The pink areas",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-WFIICAMG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of connective tissue, likely adip",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VRCETFCD.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasm",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-THFMVQQC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LGGVYLTD.tif",
+        "report": "This H&E pathology image shows a sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The pink areas represent eosinophilic components, likely cy",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QPTVDKSK.tif",
+        "report": "This H&E pathology image shows a densely packed field of cells with prominent nuclei, characteristic of a lymph node. The cells appear to be closely arranged, with a high nuclear-to-cytoplasmic ratio, which",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PFRKPMMI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of adipocytes",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FAHVACFK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells and extracellular matrix.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ITGMGKQP.tif",
+        "report": "This H&E (Hematoxylin and Eosin) pathology image appears to show a sample of tissue with a light pink background, typical of hematoxylin-stained nuclei and eosin-stained cy",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RFPTKTAS.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-ERCYYAWQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain smooth muscle tissue, identifiable by the el",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PHTALWKM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RCFQCRYQ.tif",
+        "report": "This H&E pathology image shows a dense aggregation of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, suggesting",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VNKHICMV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-SGYTEACV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to be of a muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-VTIQVMPL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense, heterogeneous cellular landscape. The predominant coloration is a mix of pink and purple hues, typical of H&E staining",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-LALWVNAW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-AFKWTAFT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TYQDWMDW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-ALHHCWNS.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces that are indicative of adipocytes",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-AWDIDALF.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-EYTTYSPA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells and extracellular matrix.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HFGQKYGT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample with a uniform pink and purple coloration, typical of H&E staining. Here's an analysis of the main features:",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-QQFTWCFQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei,",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SMFHLYTG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TEIAENDP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense aggregation of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GCGCCQWI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains elongated, spindle-shaped cells with centr",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KMSVDIYH.tif",
+        "report": "This histopathology image shows a tissue sample stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Cellular Composition**: The image contains large, clear spaces which",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MKMPLSWC.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasm",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MPQSQYIY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed field of cells with prominent nuclei, stained dark purple by hematoxylin. The background is eosinophilic",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-TSVPERYQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, with some appearing to be",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LHMWQMWM.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SEEYGPVC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed field of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NKQIWPLV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a densely packed field of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MSPWAGRD.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a tissue section with a predominance of purple hues due to hematoxylin staining, which highlights the nuclei, and e",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-EHLRTSRS.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GKRVDHNN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a smooth muscle tissue, identifiable by the",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GMMMYDEG.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to be of a muscle tissue, likely smooth muscle, given the uniform, wavy fibers and the",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PDEAYTHI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense population of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MLKDASGG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish background,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NCKKMKDT.tif",
+        "report": "This H&E pathology image shows a dense aggregation of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, suggesting",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HHSCDEWL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. Here's a",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-DNCNQAKA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YDNSMDTS.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells appear to have enlarged, hyperchromatic",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-QGDYFISI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-QFQIPLKI.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The tissue appears to have glandular structures, which are irregular and crowded. This is indicative of a g",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NFTDPCCV.tif",
+        "report": "This H&E pathology image shows a section of tissue stained with hematoxylin and eosin. The main features observed include:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nucle",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-PCNIHWVM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells and extracellular matrix.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-KILILDHS.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have a dense, irregular arrangement of cells with prominent nuclei, which is characteristic of a path",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-YWMIPLKW.tif",
+        "report": "This H&E pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The pink areas represent eosinophilic components, such",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-YPCEVSTN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YQKYFPRQ.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals the following features:\n\n1. **Cellular Composition**: The image contains numerous cells with dark",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HMFTNFCE.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The tissue appears to have a glandular structure, which is indicative of a glandular epith",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KHLDAGLR.tif",
+        "report": "This image appears to be a light microscopy slide stained with Hematoxylin and Eosin (H&E). Here's an analysis of the main features:\n\n1. **Background and Staining**: The background is a light",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QFIWPVVD.tif",
+        "report": "This histopathology image shows tissue with large, clear spaces, indicative of cells that typically store lipids. The cells are polygonal in shape and separated by thin fibrous septa. The clear spaces are surrounded by thin, dark",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ANLNNCQD.tif",
+        "report": "This H&E pathology image shows a section of epithelial tissue. The main pathological features include:\n\n1. **Glandular Structures**: The image displays glandular formations, which are characteristic of certain epith",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HMQWEEGT.tif",
+        "report": "This image appears to be a histopathological section stained with Hematoxylin and Eosin (H&E). The main pathological features observed include:\n\n1. **Cellular Composition**: The image shows a relatively uniform",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CRPIMIMY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MDWHYHPC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense population of cells with prominent nuclei, stained dark purple by hematoxylin. The eosin stain provides a pinkish background,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-HVVKPMEV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EYHRRYQY.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The tissue appears to have a glandular structure, which is indicative of a glandular epithel",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RSQDNRCM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-LNAITLIH.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, with some appearing more el",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LKTFSEKH.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a field with a predominance of eosinophilic (pink) staining, indicating a high cellularity area. The background appears",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-FRRWYSLG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KIWIANAF.tif",
+        "report": "This histopathology image appears to show tissue with large, clear spaces, which are characteristic of cells that store energy in the form of lipids. The cells are separated by thin fibrous septa, which are typical of this type of",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RLCHVCCL.tif",
+        "report": "This H&E pathology image shows a tissue sample with a predominant pink and purple coloration, typical of hematoxylin and eosin staining. The pink areas represent eosinophilic components, likely cy",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-RDQGESHM.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to be composed of glandular structures, which are lined by columnar epithelial cells.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YHEVAYNT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is lighter, stained pink by eosin",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ERYVMIGR.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, stained in varying shades of purple. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, indicative of",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FMAESEHF.tif",
+        "report": "This H&E pathology image shows a dense cellular field with numerous cells exhibiting prominent nuclei. The predominant feature is the high density of cells, which suggests a pathological process. The cells appear to be closely packed, with",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YTIPRVCW.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with prominent nuclei, indicating a high cellularity. The nuclei appear pleom",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GGCDDNQK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LTINHHIG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense population of cells with prominent nuclei, characteristic of a lymph node. The image reveals a high cellularity, with numerous small, round cells",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-VPRGVPWR.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to be from the gastrointestinal tract, likely the colon, given the glandular structures",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MDGFPAYD.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells and extracellular matrix.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HIRQLRMS.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have a glandular structure, which is characteristic of epithelial tissue. The gland",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PNNINFPD.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic components",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-SYCYKLQC.tif",
+        "report": "This H&E pathology image shows a tissue section with several notable features:\n\n1. **Tissue Type**: The image appears to be of a smooth muscle tissue, characterized by elongated, spindle-shaped cells arranged in a",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PKSNNRQY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-QEPDIMQC.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have glandular structures, which are characteristic of certain types of epithelial tissues. The",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-YMEAQFVE.tif",
+        "report": "This H&E pathology image shows a section of colon tissue. The main pathological features include:\n\n1. **Goblet Cells**: These are identifiable by their mucin-filled cytoplasm, which appears as",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KCWVSNSY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is eosinophilic (p",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RQNDMNTF.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the high density of cells with darkly stained nuclei, suggesting a proliferation of cells.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-DQFMPLSF.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominant pink and purple coloration, typical of hematoxylin and eosin staining. Here's a detailed",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-AVASHCVR.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. Here's a",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TFIRAVPL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is stained pink by eosin, indicating",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-RIADMIEK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KETQEQEG.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HNMDYQHR.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a smooth muscle tissue, identifiable by the",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EANSWADF.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a tissue sample with a uniform pink and purple coloration, typical of H&E staining. Here's an analysis of the main features",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RTLSIRWM.tif",
+        "report": "This H&E pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. The pink areas represent eosinophilic components, such",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ICASCLAL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the high density of cells with darkly",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HDWQSVSN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a section of tissue with a predominant purple hue due to hematoxylin staining, which highlights the nuclei, and an e",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SLIQLQKC.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-WGPDNWHY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue section with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RAVTVAIC.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The cells appear to be arranged in irregular glandular patterns, which is characteristic of glandular epith",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ICILCAKL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with prominent nuclei, which are stained",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-HIKDGRYP.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, suggesting",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QAVNWLYC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense cellular field with numerous small, round cells. The cells appear to have darkly stained nuclei, indicative of hematoxylin upt",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-IHTNGNEN.tif",
+        "report": "This H&E (Hematoxylin and Eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei,",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-DKKIIDQP.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of adipocytes",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FKRGYWAW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to be of a smooth muscle tissue, characterized by",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-REAHAFNL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces, which are indicative of cells",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MESGLLCN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LQWWLFGR.tif",
+        "report": "This histopathology image shows a tissue sample stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PPMNEAEL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GKSKGCKQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-SAAENTSE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-HWDNCKKN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue section with several notable features:\n\n1. **Cellular Architecture**: The image displays a glandular structure, which is indicative of",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DPAVHTYE.tif",
+        "report": "I'm unable to analyze images directly, but I can guide you on how to interpret a hematoxylin and eosin (H&E) pathology image.\n\n### H&E Staining:\n- **Hematoxy",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-ELDGGRSN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MCTTIGVA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces, which are indicative of cells",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CMIDGNHG.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-IVMTHTNK.tif",
+        "report": "This histopathology image shows a tissue sample with several key features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces, which are indicative of cells with large, lipid-filled vacuoles. These vac",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-YHFFDFYY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HKALSTVI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a dense, uniform appearance. The predominant coloration is a deep purple, indicating hematoxylin staining, which highlights",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-NTELLIFV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-VGPDELRT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, with some appearing more el",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-PAPFASYT.tif",
+        "report": "I'm unable to analyze medical images, including H&E (hematoxylin and eosin) pathology images. However, I can guide you on how to analyze such images and what to look for.\n\n### Steps to Analy",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-KVVQFGRT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YKALCEHD.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TPNLQDET.tif",
+        "report": "This H&E pathology image shows a tissue sample with a predominant pink and purple coloration, typical of hematoxylin and eosin staining. The pink areas represent eosinophilic components, such as",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RPSVCSLE.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, indicative of a high cellularity area. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei, suggesting",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-ACCMQQKC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to be of a muscle tissue, likely smooth muscle",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-VFCNRSIW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to be of a smooth muscle tissue, characterized by",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MHTNVTEM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces, which are indicative of cells",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PCKMCTKQ.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The image reveals a glandular structure, which is indicative of a glandular tissue. The glands",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-MIKNRPYT.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain smooth muscle tissue, identifiable by the uniform",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-AIWPDATK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-ECHYSNPS.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Cellular Composition**: The image contains numerous cells with dark",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QTMQPWKM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense cellular composition with prominent nuclei stained dark purple by hematoxylin. The eosin stain highlights the cytoplasm and extr",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-ITYTVKRR.tif",
+        "report": "This histopathology image appears to show a tissue sample with large, clear spaces, likely indicative of adipocytes, which are characteristic of a certain type of tissue. The cells are polygonal in shape and have thin, darkly stained",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GRGDKPQM.tif",
+        "report": "I'm unable to analyze images directly, but I can guide you on how to describe typical features of an H&E (hematoxylin and eosin) pathology image.\n\n### H&E Pathology Image Analysis\n\n####",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WLSPWQQY.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key pathological features:\n\n1. **Cellular Architecture**: The tissue appears to have a",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FWERLKWI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RDNRGFAM.tif",
+        "report": "This H&E pathology image shows a densely cellular area with numerous irregularly shaped cells. The cells appear to have enlarged, hyperchromatic nuclei, and a high nuclear-to-cytoplasmic ratio, which",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-DWRIENHQ.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KSYDYQGM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample with a uniform purple background, typical of hematoxylin staining, which highlights cell nuclei. The image lacks distinct cellular",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-CLNDWWEW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular and Structural Features**:\n   - The image displays elongated, spindle",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SIGYREDW.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense cellular field with numerous cells exhibiting prominent nuclei. The predominant feature is the high density of cells, which suggests a pathological process",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FQLDADWV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WYLYNIEE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei,",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QPTFNQCP.tif",
+        "report": "This H&E pathology image shows a dense collection of cells with prominent nuclei, characteristic of a pathological process. The predominant feature is the high density of cells, which suggests a significant pathological process. The cells appear to",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-ADHSFPIY.tif",
+        "report": "This histopathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to be large, round, and clear, indicative of cells",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QQPNVIGR.tif",
+        "report": "This H&E (Hematoxylin and Eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells and extracellular matrix",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-MSHSCKEI.tif",
+        "report": "This H&E (Hematoxylin and Eosin) pathology image shows a section of tissue with several notable features:\n\n1. **Tissue Type**: The image appears to be of a smooth muscle tissue, characterized",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LSYNFEVY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several key features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces which are indicative of cells with",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VMTKQICM.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The tissue appears to have glandular structures, which are characteristic of epithelial tissue. The glands are",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-TDSKTFRD.tif",
+        "report": "This H&E pathology image shows a tissue sample with a predominant pink hue, indicative of the eosin stain, which highlights the cytoplasm and extracellular matrix. The pink areas represent the muscle fibers,",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NTECYCIK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a field of cells with a predominant purple hue from hematoxylin staining, indicating the nuclei, and a pinkish hue",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VFRIPGSF.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The cells appear to be arranged in glandular structures, which is characteristic of epithelial tissue.\n\n2",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MDWCVVFS.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is lighter, stained pink by eosin",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-EDDTALEE.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, with some appearing to be",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RCHTGLIN.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasmic",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-ENTHDWYF.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key features:\n\n1. **Cellular Composition**: The image contains numerous cells with dark",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-QVMEVTMR.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-RRNCKKIK.tif",
+        "report": "This H&E (Hematoxylin and Eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain a type of muscle tissue, characterized by",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RLCVFQDD.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained dark purple by hematoxylin. The background is lightly stained pink by eosin.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NSGHFLLV.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining. Here's a",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HCCSEWTA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a dense population of cells. The predominant feature is the presence of numerous small, round cells with darkly stained nuclei,",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-HMWQGLWQ.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Architecture**: The image displays large, clear spaces, which are indicative of cells that have lost their cytoplasmic content",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CHFLSNWD.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WQWVCIEQ.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The tissue appears to have glandular structures, which are irregular and crowded. This is indicative of a",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QDVKQVMC.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense aggregation of cells with prominent nuclei, indicative of a high cellular density. The cells appear to be closely packed, with minimal extrac",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-APDQRRVH.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains a dense aggregation of cells. The cells appear to be closely packed, with a high nucleus-to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-SIPPFWRI.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-LFVQSYYA.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with darkly stained nuclei, indicating a high nuclear-to-cytoplasm",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YYRCFCFC.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Arrangement**: The tissue appears to have a glandular structure, which is indicative of epithelial origin. The",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AFTTNYTA.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a sample of tissue with a light pink background, typical of hematoxylin-stained nuclei and eosin-stained cytop",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RNPRPGQY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with a predominance of eosinophilic (pink) staining, indicating the presence of cytoplasmic",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WGVEGWCH.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Architecture**: The image reveals a densely packed arrangement of cells. The cells appear to have irregular shapes and sizes, which is",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-ANGLIYQA.tif",
+        "report": "This H&E pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to be a section of glandular tissue, likely from an epithelial origin, given the presence",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LGLIYRWK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CHARPFFM.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains large, clear spaces, which are indicative of",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CVIEWPDY.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Cellular Composition**: The image contains a mix of cells, some of which appear to",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KWHQVNSK.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a dense collection of cells with prominent nuclei, stained in shades of purple and pink. The background appears to be a light pink, indicating the presence",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NNMIQVNL.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image appears to show a tissue sample with a predominance of pink and purple hues, typical of hematoxylin and eosin staining.\n\n###",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-AISHVAGK.tif",
+        "report": "This histopathology image shows a section of tissue stained with Hematoxylin and Eosin (H&E). The image reveals several key pathological features:\n\n1. **Cellular Architecture**: The tissue appears to have g",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HGWSFEAA.tif",
+        "report": "This H&E pathology image shows a section of tissue with several notable features:\n\n1. **Cellular Composition**: The image contains numerous cells with varying sizes and shapes. The cells appear to have enlarged, hyperchromatic",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-RYYSFRIF.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a tissue sample with several notable features:\n\n1. **Tissue Type**: The image appears to contain elongated, spindle-shaped cells arranged",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DEKQLCKN.tif",
+        "report": "This H&E (hematoxylin and eosin) pathology image shows a sample with a predominance of pink and purple hues, typical of H&E staining. Here's an analysis of the main features:",
+        "discovered_cluster": 0
+    }
+]

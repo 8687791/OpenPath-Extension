@@ -1,0 +1,27 @@
+# ========================================================
+# OpenPath 多模态主动学习框架核心环境依赖清单 (requirements.txt)
+# ========================================================
+
+# 1. 基础深度学习与核心训练框架
+torch>=2.0.1
+torchvision
+lightning>=2.1.0
+
+# 2. 跨模态大模型与文本分词依赖 (核心修正：锁定版本以完美向下兼容 PyTorch 2.0.1，防止系统自动禁用 Torch)
+transformers>=4.36.0,<4.40.0
+huggingface-hub>=0.19.0,<1.0
+sentencepiece
+tiktoken
+
+# 3. 视觉特征提取与张量高级重排 (InternVL 与 BiomedCLIP 强依赖)
+timm
+einops
+
+# 4. 医学图像数据增强与基础数据流
+albumentations
+pandas
+numpy
+tqdm
+
+# 5. 传统机器学习算法与评估指标 (主动学习 K-Means++ 聚类及分类性能评估)
+scikit-learn

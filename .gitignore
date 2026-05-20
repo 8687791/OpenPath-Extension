@@ -1,0 +1,23 @@
+# 1. 忽略数据集文件夹
+data/
+dataset/
+al_file/*.csv
+
+# 2. 忽略日志文件夹
+lightning_logs/
+log/
+log1/
+
+# 3. 忽略预训练权重和模型文件
+pretrained/
+*.pth
+*.pt
+*.pkl
+
+# 4. 忽略系统和误生成的垃圾文件
+=1.3.0
+=2.0.0
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,30 @@
+# --- 基础框架 (针对 CUDA 11.8) ---
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# --- 核心兼容性补丁 ---
+setuptools<70.0.0
+huggingface_hub
+
+# --- 训练与模型 (已做降级处理以适配 PyTorch 2.0.1) ---
+pytorch-lightning>=2.0.0,<2.1.0
+transformers>=4.30.0,<4.35.0
+peft
+sentence-transformers
+open_clip_torch
+
+# --- 数据处理与科学计算 ---
+numpy<2.0.0
+pandas
+scikit-learn
+scipy
+opencv-python-headless
+pillow
+albumentations>=1.3.0
+
+# --- 其他工具 ---
+tqdm
+argparse
+tensorboard
