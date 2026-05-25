@@ -44,9 +44,9 @@ ln -s /root/gpufree-data/hf_cache /root/.cache/huggingface
 
 ```
 
-### 第四步：准备并安装 `requirements.txt` 基础依赖
+### 第四步：准备并安装 `requirements1.txt` 基础依赖
 
-在你的项目根目录下新建一个名为 `requirements.txt` 的文件，将我们对齐好版本的依赖项粘贴进去：
+在你的项目根目录下新建一个名为 `requirements1.txt` 的文件，将我们对齐好版本的依赖项粘贴进去：
 
 ```text
 # 基础深度学习与核心训练框架

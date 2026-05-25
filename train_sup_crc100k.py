@@ -566,5 +566,5 @@ if __name__ == "__main__":
             precision_list.append(cur_precision)
         print(precision_list)
     # record
-    np.savetxt('log1/Ours_precision.txt', np.array(precision_list),delimiter=',')
+    np.savetxt('log/Ours_precision.txt', np.array(precision_list),delimiter=',')
             
