@@ -76,13 +76,13 @@ def load_internvl(model_path="pretrained/InternVL2_5-2B"):
 
 def generative_ood_discovery(args, dataloader, model, tokenizer):
     """
-    基于全新 10 分类皮肤疾病提示词的生成式阅片与高级过滤逻辑 (含模糊匹配防崩溃补丁)
+    基于全新 10 分类皮肤疾病提示词的生成式阅片与高级过滤逻辑
     """
     id_candidates_names = []
     id_features = []
     ood_descriptions = []
     
-    # 💡 核心修改点 1：10 大皮肤病单选题 Prompt
+    # 💡 核心修改点 1：将原本肠癌的 9 分类选择题，完全重构为你硬盘里真实的 10 大皮肤病单选题
     vqa_prompt = (
         "You are an expert dermatopathologist. Classify this skin lesion image into EXACTLY ONE of the following 10 distinct categories:\n"
         "1. Eczema (湿疹)\n"
@@ -96,15 +96,17 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
         "9. Fungal Infections / Tinea (真菌感染/癣)\n"
         "10. Viral Infections / Warts (病毒感染/疣)\n\n"
         "Respond strictly in this format:\n"
-        "Category: [Input the exact category name or keywords from the list above, e.g., Melanoma or Basal Cell Carcinoma]\n"
+        "Category: [Input the exact category name or keywords from the list above, e.g., Melanoma or Melanocytic Nevi]\n"
         "Description: [A brief one-sentence reasoning focusing on lesion appearance]"
     )
     
-    # ⚡️ 核心修改点 2：放宽拦截网！加入多种词根变体，只要大模型给出任意变体，都能被抓回 ID 阵营
-    gold_id_tags = ['melanoma', 'mel', 'basal cell carcinoma', 'basal cell', 'bcc', 'basal']
+    # 💡 核心修改点 2：重新锁定你皮肤消融实验的已知类 (In-Distribution) 黄金靶向。
+    # 我们把临床研究最核心的 Melanoma (黑色素瘤) 和最常见的 Nevi (色素痣) 设为已知类，只要认出这两个就进入候选池！
+    gold_id_tags = ['melanoma', 'melanocytic nevi', 'nevi']
     
     transform = build_transform(input_size=448)
     print("\n🔍 开始基于 10-Way 皮肤单选的生成式阅片与 OOD 精准拦截...")
+    pbar = tqdm(dataloader, desc="皮肤阅片进度")
     
     for idx, sample in enumerate(tqdm(dataloader, desc="皮肤阅片进度")):
         img_tensor = sample['img']
@@ -117,7 +119,6 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
             generation_config = dict(max_new_tokens=64, do_sample=False)
             generated_report = model.chat(tokenizer, pixel_values, vqa_prompt, generation_config)
             
-            # 转小写，防止大小写导致错杀
             report_lines = generated_report.lower().split('\n')
             
             chosen_category = ""
@@ -126,7 +127,6 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
                     chosen_category = line.replace("category:", "").strip()
                     break
             
-            # 只要命中任何一个核心词根，即判定为 ID
             is_id = any(tag in chosen_category for tag in gold_id_tags)
             
             if is_id:
@@ -138,6 +138,12 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
                     "img_name": img_name,
                     "report": generated_report
                 })
+
+        # ⚡️ 补丁核心 2：在进度条最右侧实时高亮刷新捕获到的 ID 和 OOD 数量
+        pbar.set_postfix({
+            "ID_Found": len(id_candidates_names),
+            "OOD_Blocked": len(ood_descriptions)
+        })
 
     print(f"\n🌟 皮肤扫描完成！找到 {len(id_candidates_names)} 个已知类 (ID) 样本候选，拦截 {len(ood_descriptions)} 个潜在的皮肤未知类 (OOD) 杂病样本。")
     
@@ -153,16 +159,13 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
             for i, item in enumerate(ood_descriptions):
                 item["discovered_cluster"] = int(kmeans_ood.labels_[i])
                 
+        # 💡 核心修改点 3：物理隔离输出路径，保存至皮肤文件夹
         os.makedirs(args.output_dir, exist_ok=True)
         out_json = os.path.join(args.output_dir, "discovered_ood_clusters_skin.json")
         with open(out_json, "w", encoding='utf-8') as f:
             json.dump(ood_descriptions, f, indent=4, ensure_ascii=False)
         print(f"✅ OOD 聚类结果已保存至 {out_json}")
 
-    # ⚡️ 核心修改点 3：安全防崩溃兜底机制。如果确实是 0 命中，返回空数组，避免 np.vstack 闪退
-    if len(id_features) == 0:
-        return np.array([]), np.array([])
-        
     return np.array(id_candidates_names), np.vstack(id_features)
 
 
@@ -174,6 +177,7 @@ def main():
     parser.add_argument("--input_size", default=256, type=int)
     parser.add_argument("--crop_size", default=224, type=int)
     
+    # 💡 核心修改点 4：精准指向你刚才 make_csv_skin.py 刚刚跑出来包含 20040 条数据的皮肤表格
     parser.add_argument("--train_csv", default="al_file_skin/train.csv", type=str)
     parser.add_argument("--output_dir", default="al_file_skin", type=str)
     args = parser.parse_args()
@@ -187,7 +191,8 @@ def main():
 
     train_df = pd.read_csv(args.train_csv)
     
-    # 抽取 500 张图进行光速冷启动初筛
+    # 💡 核心修改点 5：因为你洗出来的 train.csv 有整整 20040 张切片，全量扫网大模型会非常慢。
+    # 这里我们精准随机抽取 500 张图送入大模型，进行冷启动盲测初筛，既保证了统计多样性，又做到了光速通关。
     if len(train_df) > 500:
         print(f"⚠️ 检测到皮肤原始数据量庞大 ({len(train_df)}张)。正在随机采样 500 张作为冷启动精选池...")
         train_df = train_df.sample(n=500, random_state=42).reset_index(drop=True)
@@ -200,9 +205,8 @@ def main():
     
     names_id_vlm, embeds_id = generative_ood_discovery(args, train_loader, model, tokenizer)
     
-    # ⚡️ 如果返回的数组是空的，就在这里优雅报错，退出程序
     if len(names_id_vlm) == 0:
-        print("❌ 严重错误：大模型未在探索池中发现任何匹配 Melanoma 或 BCC 的 ID 样本！")
+        print("❌ 错误：大模型未在探索池中发现任何匹配 Melanoma 或 Nevi 的 ID 样本！")
         return
 
     if len(names_id_vlm) < args.init_num:
@@ -218,6 +222,7 @@ def main():
             distances = np.linalg.norm(embeds_id - center, axis=1)
             selected_names.append(names_id_vlm[np.argmin(distances)])
             
+    # 💡 核心修改点 6：结果精准保存至 al_file_skin/query_round_4.csv，彻底绝缘隔离
     os.makedirs(args.output_dir, exist_ok=True)
     df_selected = pd.DataFrame({'img': selected_names, 'label': ['Unknown'] * len(selected_names)})
     

@@ -1,10 +1,8 @@
-这是一份为你量身定制的**从零开始配置 OpenPath + SAM2 多模态主动学习环境**的完整全过程指南。
-
-本指南完美融入了我们在前面排错中沉淀下来的所有工程经验（如**规避虚拟环境套娃冲突**、**防止系统盘撑爆的软链接重定向**、以及 **SAM2 免隔离沙盒联编**等）。请一步步复制执行：
+这是一份更新后的 README 文本。已在 **“第二步”之前** 完美嵌入了 Miniconda 的一键安装与环境初始化步骤，并保持了其余所有工程细节、避坑参数和后续实验启动命令完全不变：
 
 ---
 
-## 🛠️ OpenPath + SAM2 虚拟环境从零搭建全流程
+# 🛠️ OpenPath + SAM2 多模态主动学习环境从零搭建全流程
 
 ### 第一步：彻底清理旧环境残留（防止路径冲突）
 
@@ -17,7 +15,23 @@ deactivate
 
 ```
 
-### 第二步：创建并激活全新的 Conda 虚拟环境
+### 第二步：安装并初始化 Miniconda 基础环境
+
+若系统内尚未配置 Conda 环境，请直接下载并安装 Python 3.10 版本的 Miniconda：
+
+```bash
+# 1. 下载 Miniconda 安装包
+wget https://repo.anaconda.com/miniconda/Miniconda3-py310_23.11.0-2-Linux-x86_64.sh
+
+# 2. 运行安装程序（一路按空格跳过协议，输入 yes 确认并接受默认路径）
+bash Miniconda3-py310_23.11.0-2-Linux-x86_64.sh
+
+# 3. 激活 Conda 环境变量（执行后命令行最左侧将显示 (base)）
+source ~/.bashrc
+
+```
+
+### 第三步：创建并激活全新的 Conda 虚拟环境
 
 基于你模型中使用的 Python 3.10 版本，创建一个干净、独立的虚拟环境：
 
@@ -30,7 +44,7 @@ conda activate openpath
 
 ```
 
-### 第三步：系统盘“防爆”预处理（将缓存锁死在数据盘）
+### 第四步：系统盘“防爆”预处理（将缓存锁死在数据盘）
 
 由于云容器的根目录（系统盘 `/`）通常只有 30GB，而大模型权重和缓存极其庞大。在安装任何包之前，必须把缓存目录重定向到空间充足的数据盘 `/root/gpufree-data`：
 
@@ -44,7 +58,7 @@ ln -s /root/gpufree-data/hf_cache /root/.cache/huggingface
 
 ```
 
-### 第四步：准备并安装 `requirements1.txt` 基础依赖
+### 第五步：准备并安装 `requirements1.txt` 基础依赖
 
 在你的项目根目录下新建一个名为 `requirements1.txt` 的文件，将我们对齐好版本的依赖项粘贴进去：
 
@@ -76,11 +90,11 @@ scikit-learn
 保存文件后，在终端执行批量安装（国内清华镜像源加速）：
 
 ```bash
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r requirements1.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ```
 
-### 第五步：源码编译安装 SAM2 核心引擎（终极抗假死命令）
+### 第六步：源码编译安装 SAM2 核心引擎（终极抗假死命令）
 
 **【切勿直接用 pip 默认命令安装】**。为了防止 `pip` 默认的隔离构建机制在系统盘 `/tmp` 目录下创建几 GB 的临时 PyTorch 沙盒导致系统瞬间憋死，必须加上 `--no-build-isolation` 参数，强制利用我们刚刚在 `openpath` 环境里装好的 PyTorch 和工具进行硬件级 CUDA 算子联编：
 
@@ -91,7 +105,7 @@ python -m pip install git+https://github.com/facebookresearch/segment-anything-2
 
 *注：当终端停在 `Running setup.py install for segment-anything-2 ...` 时，是在调用 NVCC 编译器编译 CUDA，会静止 3~5 分钟，请耐心等待其弹出 `Successfully installed`。*
 
-### 第六步：环境黄金健全性验证（Sanity Check）
+### 第七步：环境黄金健全性验证（Sanity Check）
 
 环境全部配置完成后，新开一个终端，运行以下命令验证 GPU 算力通道与大模型组件是否全线贯通：
 
@@ -123,18 +137,17 @@ except Exception as e:
 当上述验证全部输出正确后，你就可以直接在项目根目录下，按照逻辑顺序无缝推进你的两阶段主动学习研究了：
 
 1. **第一阶段：跑大模型冷启动与新病种发掘**
+
 ```bash
 python vlm_generative_ood.py
 
 ```
 
-
 2. **第二阶段：跑双尺度人在回路主动学习主轴大循环**
+
 ```bash
 python train_multigranular_al.py
 
 ```
-
-
 
 整套流水线从这一刻起彻底闭环，可以放心让你的 Tesla T4 显卡满载轰鸣了！
