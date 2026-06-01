@@ -6,6 +6,7 @@ import pandas as pd
 import json
 import random
 import argparse
+import pickle  # ⚡️ 引入序列化工具，用于物理保存全量候选池
 from tqdm import tqdm
 
 # ==========================================
@@ -18,15 +19,14 @@ os.environ['REQUESTS_CA_BUNDLE'] = ''
 from transformers import AutoTokenizer, AutoModel
 import torchvision.transforms as T
 from PIL import Image
+from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity # 引入余弦相似度用于方案C
 
 # 导入原本的数据集加载器
 from dataset.alb_dataset2 import Tumor_dataset_val, get_loader
 
 
-# ⚡️ 随机种子更换为 3407
-def seed_torch(seed=3407):
+def seed_torch(seed=42):
     random.seed(seed)
     os.environ['PYTHONHASHSEED'] = str(seed)
     np.random.seed(seed)
@@ -77,7 +77,7 @@ def load_internvl(model_path="pretrained/InternVL2_5-2B"):
 
 def generative_ood_discovery(args, dataloader, model, tokenizer):
     """
-    基于全新 10 分类皮肤疾病提示词的生成式阅片与高级过滤逻辑
+    基于全新 10 分类皮肤疾病提示词的生成式阅片与高级过滤逻辑 (包含实时计数展示补丁)
     """
     id_candidates_names = []
     id_features = []
@@ -101,11 +101,13 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
         "Description: [A brief one-sentence reasoning focusing on lesion appearance]"
     )
     
+    # 💡 核心修改点 2：锁定第 2 类 (Melanoma) 和第 5 类 (Nevi) 作为大模型拦截目标
     gold_id_tags = ['melanoma', 'melanocytic nevi', 'nevi']
     
     transform = build_transform(input_size=448)
     print("\n🔍 开始基于 10-Way 皮肤单选的生成式阅片与 OOD 精准拦截...")
     
+    # ⚡️ 注入动态实时状态窗口
     pbar = tqdm(dataloader, desc="皮肤阅片进度")
     
     for idx, sample in enumerate(pbar):
@@ -139,6 +141,7 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
                     "report": generated_report
                 })
         
+        # ⚡️ 实时刷新看板
         pbar.set_postfix({
             "ID_Found": len(id_candidates_names),
             "OOD_Blocked": len(ood_descriptions)
@@ -151,7 +154,6 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
         corpus = [item["report"] for item in ood_descriptions]
         vectorizer = TfidfVectorizer(max_features=128, stop_words='english')
         X = vectorizer.fit_transform(corpus)
-        from sklearn.cluster import KMeans # 仅用于OOD的文本聚类
         num_clusters = max(2, min(5, len(corpus) // 3)) 
         
         if len(corpus) >= num_clusters:
@@ -163,69 +165,12 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
         out_json = os.path.join(args.output_dir, "discovered_ood_clusters_skin.json")
         with open(out_json, "w", encoding='utf-8') as f:
             json.dump(ood_descriptions, f, indent=4, ensure_ascii=False)
+        print(f"✅ OOD 聚类结果已保存至 {out_json}")
 
     if len(id_features) == 0:
         return np.array([]), np.array([])
 
     return np.array(id_candidates_names), np.vstack(id_features)
-
-
-# ==================================================
-# 🧪 算法 B: 密度自适应核心采样 (Density + FPS)
-# ==================================================
-def run_density_core_sampling(names, embeds, init_num, k_neighbors=5, noise_percentile=15):
-    n_samples = embeds.shape[0]
-    dot_product = np.dot(embeds, embeds.T)
-    norms = np.linalg.norm(embeds, axis=1, keepdims=True)
-    dist_matrix = np.sqrt(np.maximum(norms**2 + norms.T**2 - 2 * dot_product, 0.0))
-    
-    knn_dists = np.sort(dist_matrix, axis=1)[:, 1:k_neighbors + 1].mean(axis=1)
-    threshold = np.percentile(knn_dists, 100 - noise_percentile)
-    valid_indices = np.where(knn_dists <= threshold)[0]
-    
-    if len(valid_indices) < init_num: 
-        valid_indices = np.arange(n_samples)
-    
-    selected_indices = [valid_indices[np.argmin(knn_dists[valid_indices])]]
-    min_dists = dist_matrix[selected_indices[0], :]
-    
-    while len(selected_indices) < init_num:
-        candidate_indices = [i for i in valid_indices if i not in selected_indices]
-        if not candidate_indices: break
-        best_next = candidate_indices[np.argmax(min_dists[candidate_indices])]
-        selected_indices.append(best_next)
-        min_dists = np.minimum(min_dists, dist_matrix[best_next, :])
-        
-    return names[selected_indices].tolist()
-
-
-# ==================================================
-# 🧪 算法 C: 图论中心度与 NMS 抑制采样 (Graph Centrality)
-# ==================================================
-def run_graph_centrality_nms(names, embeds, init_num, sim_thresh=0.75, penalty=0.5):
-    sim_matrix = cosine_similarity(embeds)
-    sim_matrix[sim_matrix < sim_thresh] = 0 
-    centrality = sim_matrix.sum(axis=1) 
-    
-    selected_indices = []
-    valid_mask = np.ones(len(names), dtype=bool)
-    
-    for _ in range(init_num):
-        masked_centrality = centrality * valid_mask
-        if masked_centrality.max() <= 0:
-            candidates = np.where(valid_mask)[0]
-            best_idx = np.random.choice(candidates) if len(candidates) > 0 else 0
-        else:
-            best_idx = np.argmax(masked_centrality)
-            
-        selected_indices.append(best_idx)
-        valid_mask[best_idx] = False
-        
-        # NMS 抑制周边点
-        centrality -= sim_matrix[best_idx] * penalty
-        centrality = np.maximum(centrality, 0)
-        
-    return names[selected_indices].tolist()
 
 
 def main():
@@ -240,8 +185,7 @@ def main():
     parser.add_argument("--output_dir", default="al_file_skin", type=str)
     args = parser.parse_args()
     
-    # ⚡️ 更换全新的 Seed 初始化空间
-    seed_torch(3407)
+    seed_torch()
 
     print(f"📂 正在解析 {args.train_csv} 并加载皮肤未标注数据池...")
     if not os.path.exists(args.train_csv):
@@ -249,12 +193,14 @@ def main():
         return
 
     train_df = pd.read_csv(args.train_csv)
+    
+    # 临时建立快速查表字典，用于最后的 QP 线上核验
     truth_dict = {os.path.basename(row.iloc[0]): int(row.iloc[1]) for _, row in train_df.iterrows()}
     
-    # ⚡️ 使用 3407 进行前置空间重采样
+    # 随机抽取 500 张图送入大模型精选池
     if len(train_df) > 500:
-        print(f"⚠️ 正在使用新 Seed: 3407 随机采样 500 张作为冷启动精选池...")
-        train_df = train_df.sample(n=500, random_state=3407).reset_index(drop=True)
+        print(f"⚠️ 检测到皮肤原始数据量庞大 ({len(train_df)}张)。正在随机采样 500 张作为冷启动精选池...")
+        train_df = train_df.sample(n=500, random_state=42).reset_index(drop=True)
     train_files = train_df.to_dict('records')
     
     train_dataset = Tumor_dataset_val(args, train_files)
@@ -270,13 +216,27 @@ def main():
 
     gold_id_classes = [1, 4] 
 
-    # ==================================================
-    # 📊 阶段 1: 大模型初筛全量候选池纯度测评
-    # ==================================================
+    # ⚡️ 核心物理保存：将大模型初筛出的【全量候选池】的路径名字和视觉特征 Embedding 固化存盘
+    os.makedirs(args.output_dir, exist_ok=True)
+    save_cache_path = os.path.join(args.output_dir, "vlm_id_candidates.pkl")
+    with open(save_cache_path, "wb") as f:
+        pickle.dump({"names": names_id_vlm, "embeds": embeds_id}, f)
+    print(f"💾 [科研存盘成功]：已将全量初筛池数据固化到本地: {save_cache_path}")
+
+    # 📊 --- 阶段 1: 大模型初筛全量候选池纯度 (QA/QP) 评测 ---
     print("\n" + "="*50)
     print(f"📊 --- 阶段 1: 大模型初筛全量候选池纯度 (QA/QP) 评测 ---")
-    vlm_raw_id_count = sum([1 for n in names_id_vlm if truth_dict.get(os.path.basename(n)) in gold_id_classes])
-    vlm_raw_ood_count = len(names_id_vlm) - vlm_raw_id_count
+    vlm_raw_id_count = 0
+    vlm_raw_ood_count = 0
+    
+    for name in names_id_vlm:
+        img_basename = os.path.basename(name)
+        if img_basename in truth_dict:
+            real_label = truth_dict[img_basename]
+            if real_label in gold_id_classes:
+                vlm_raw_id_count += 1
+            else:
+                vlm_raw_ood_count += 1
                 
     raw_qp = (vlm_raw_id_count / len(names_id_vlm)) * 100 if len(names_id_vlm) > 0 else 0
     print(f" ├─ 大模型初筛总候选数: {len(names_id_vlm)}")
@@ -285,53 +245,49 @@ def main():
     print(f" └─ 💡 原始初筛池精准度 (Raw Query Precision): {raw_qp:.2f}%")
     print("="*50 + "\n")
 
-    # ==================================================
-    # 🎯 阶段 2: 执行双算法横向选片
-    # ==================================================
-    os.makedirs(args.output_dir, exist_ok=True)
-    
+    # 阶段 2 ———— 原始 K-Means++ 聚类控量多样性挑选
     if len(names_id_vlm) < args.init_num:
-        print(f"⚠️ 警告：候选样本过少，将全数选中。")
-        selected_b = names_id_vlm.tolist()
-        selected_c = names_id_vlm.tolist()
+        print(f"⚠️ 警告：找到的 ID 候选样本({len(names_id_vlm)})少于当前 {args.init_num} 张的预算，将全数选中！")
+        selected_names = names_id_vlm.tolist()
     else:
-        print("🎯 正在执行 方案 B: 基于局部密度的自适应核心采样 (Density-Core FPS)...")
-        selected_b = run_density_core_sampling(names_id_vlm, embeds_id, args.init_num)
+        print("🎯 正在对找到的皮肤黄金 ID 样本进行多样性 K-Means++ 采样...")
+        kmeans = KMeans(n_clusters=args.init_num, init='k-means++', n_init=10, random_state=42)
+        kmeans.fit(embeds_id)
         
-        print("🎯 正在执行 方案 C: 基于图论流形挖掘与侧向抑制采样 (Graph Centrality NMS)...")
-        selected_c = run_graph_centrality_nms(names_id_vlm, embeds_id, args.init_num)
-    
-    # 结果双轨落盘
-    csv_b = os.path.join(args.output_dir, "query_round_5_density.csv")
-    csv_c = os.path.join(args.output_dir, "query_round_5_graph.csv")
-    
-    pd.DataFrame({'img': selected_b, 'label': ['Unknown'] * len(selected_b)}).to_csv(csv_b, index=False)
-    pd.DataFrame({'img': selected_c, 'label': ['Unknown'] * len(selected_c)}).to_csv(csv_c, index=False)
+        selected_names = []
+        for center in kmeans.cluster_centers_:
+            distances = np.linalg.norm(embeds_id - center, axis=1)
+            selected_names.append(names_id_vlm[np.argmin(distances)])
+            
+    # 结果落盘
+    df_selected = pd.DataFrame({'img': selected_names, 'label': ['Unknown'] * len(selected_names)})
+    out_csv = os.path.join(args.output_dir, "query_round_5.csv")
+    df_selected.to_csv(out_csv, index=False)
+    print(f"✅ 皮肤种子集结果已保存在 {out_csv}")
 
-    # ==================================================
-    # 📊 阶段 2: 终极 QA/QP 战报对标
-    # ==================================================
-    def calc_qp_report(selected_list):
-        id_count = sum([1 for n in selected_list if truth_dict.get(os.path.basename(n)) in gold_id_classes])
-        ood_count = len(selected_list) - id_count
-        qp = (id_count / len(selected_list)) * 100
-        return id_count, ood_count, qp
-
-    b_id, b_ood, b_qp = calc_qp_report(selected_b)
-    c_id, c_ood, c_qp = calc_qp_report(selected_c)
-
-    print("\n" + "="*60)
-    print(f"🏆 --- 阶段 2: 双轨采样算法最终 50 张冷启动种子 QP 战报 ---")
-    print(f"\n🔬 【方案 B: Density-Core FPS (局部密度)】")
-    print(f" ├─ 真正目标类 (ID) 数量: {b_id} | 误选杂病 (OOD) 数量: {b_ood}")
-    print(f" └─ 💡 最终查询精准度 (QP): {b_qp:.2f}%")
-    print(f" 📁 账本已保存至: {csv_b}")
+    # 📊 --- 阶段 2: 最终 50 张精选冷启动种子进行核验
+    print("\n" + "="*50)
+    print(f"📊 --- 阶段 2: 最终 50 张精选冷启动种子精准度 (QP) 战报 ---")
     
-    print(f"\n🔬 【方案 C: Graph Centrality NMS (图论流形)】")
-    print(f" ├─ 真正目标类 (ID) 数量: {c_id} | 误选杂病 (OOD) 数量: {c_ood}")
-    print(f" └─ 💡 最终查询精准度 (QP): {c_qp:.2f}%")
-    print(f" 📁 账本已保存至: {csv_c}")
-    print("="*60 + "\n")
+    final_id_count = 0
+    final_ood_count = 0
+    
+    for name in selected_names:
+        img_basename = os.path.basename(name)
+        if img_basename in truth_dict:
+            real_label = truth_dict[img_basename]
+            if real_label in gold_id_classes:
+                final_id_count += 1
+            else:
+                final_ood_count += 1
+                
+    final_qp = (final_id_count / len(selected_names)) * 100
+    print(f" ├─ 采样总目标数: {len(selected_names)}")
+    print(f" ├─ 真正目标类 (ID: 1=Mel, 4=Nevi) 数量: {final_id_count}")
+    print(f" ├─ 误选未知类 (OOD 噪声) 数量: {final_ood_count}")
+    print(f" └─ 💡 聚类精选后查询精准度 Query Precision (QP): {final_qp:.2f}%")
+    print("="*50 + "\n")
+
 
 if __name__ == '__main__':
     main()

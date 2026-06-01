@@ -1,748 +1,203 @@
 [
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Guttate-42.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are small, rounded, and appear to be slow-growing with a slightly rough texture.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-psoriasis-scalp-58.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish appearance.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061405.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6792398.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a uniform color, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-2.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with keratin-filled structures, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070568.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, well-defined papules and plaques with a pearly appearance.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0010264.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly irregular border and a mix of pigmentation, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-nummular-201.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a characteristic appearance of keratosis.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Psoriasis-Chronic-Plaque-194.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, scaly, and rough area with a granular texture, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05Atopic042802.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, and non-pigmented area with a dome-shaped surface.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065157.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-pilar-cyst-30.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a whitish-pink coloration.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-94.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is small, with a pearly appearance, and is consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028627.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a pigmented appearance.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032570.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a rough, scaly surface and a central depression, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-incognito-28.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a dry, scaly, and red skin surface with visible inflammation, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0033575.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, surrounded by normal skin, and lacks significant color variation or atypical structures.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063710.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071329.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057820.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a pinkish hue and a slightly raised border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072625.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background and a central area of pigmentation.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-scalp-95.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a red, inflamed skin area around the ear, characteristic of eczema. The skin appears red and irritated, with a noticeable rash.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-skin-tags-polyps-68.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped, pinkish area with a slightly rough surface, consistent with common benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0072999.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous background and scattered hair, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060582.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065024.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025284.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a uniform coloration, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-pitted-keratolysis-1.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, scaly, and non-pigmented skin lesion on the foot, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060939.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063599.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish hue and a slightly rough texture.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-foot-77.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped nodules with a rough, scaly surface.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-subacute-64.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, well-demarcated, dome-shaped papules with a keratin-filled lumen, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Psoriasis-nails-2.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a rough, scaly texture, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057289.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a mixture of pink and white hues.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-large-skin-folds-92.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows red, inflamed skin with visible inflammation and rough texture.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-pompholyx-6.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesions are characterized by red, inflamed patches with visible keratin buildup, typical of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-psoriasis-palms-soles-193.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules and plaques with a rough, scaly texture.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-scalp-43.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a reddish-pink color, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_215.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a hand with thick, red, scaly plaques along the palm and fingers, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-hand-dorsum-26.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, scaly, and non-pigmented lesion on the hands, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/6_4.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, dome-shaped papules with a well-defined border, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/4_8.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rounded, red-pink bumps on the skin.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-2IMG008.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows small, rounded, white-pink areas with a well-defined border, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Histology-3.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a fibrinous or warty appearance, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061209.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly erythematous border and a central necrotic core.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066271.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth surface, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-reiter-syndrome-15.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are small, rounded, and appear to be non-invasive with a well-defined border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-inversus-14.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, well-demarcated reddish patches with a slightly rough texture, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031677.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background and pigmentation.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-101.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple small, dome-shaped papules with a well-defined border, characteristic of keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059570.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-chapped-fissured-feet-26.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows dry, scaly skin with visible inflammation and thickened skin layers on the feet, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061864.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background and a uniform appearance.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-seborrheic-dermatitis-114.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple dome-shaped nodules with a well-defined border, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-12.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented bump, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064578.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows small, rounded, pinkish papules and a well-demarcated border.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072897.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-subacute-47.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal, pinkish papules with a pearly appearance, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031963.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish hue and a slightly rough texture, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-scalp-25.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and rough area with a slightly different color from the surrounding skin.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-neurotic-excoriations-62.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rounded, pinkish-red bumps on the skin with a slightly scaly texture.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-64.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, non-inflamed papules with a pearly appearance, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-foot-plantar-3.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped nodules with a rough, scaly surface.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033553.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant appearance with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-34.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, dome-shaped, and slightly raised area with a smooth surface, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057662.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-lichen-simplex-chronicus-127.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed, and itchy skin area with a rough texture.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026249.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a characteristic appearance of keratin-filled cysts.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-lichen-simplex-chronicus-92.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, and non-inflamed area with a reddish-pink background.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056661.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a mixture of pink and red hues.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068667.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal proliferation with a pinkish hue.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05atopic050806.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesions are characterized by red, itchy, and inflamed patches, with a clear demarcation between affected and unaffected skin areas.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-Dyshidrosis-16.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a hand with dry, flaky skin and red areas, characteristic of eczema. The skin appears to be inflamed and irritated, with a rough texture.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070367.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, well-defined, pinkish papules and nodules with a characteristic keratin-filled crust.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-diaper-16.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, dome-shaped, reddish-brown papules with a slightly waxy texture, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7114516.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly irregular, light brown area with a somewhat scaly texture.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-pityriasis-rosea-83.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059826.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Planus-Oral-36.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, white area with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/19_11.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are small, well-defined, and appear to be non-invasive with a pearly appearance.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-79.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, dome-shaped, and slightly raised area with a smooth, glistening surface, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-asteatotic-42.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, scaly, and pigmented area resembling keratosis.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Guttate-76.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, rounded, pinkish papules with a slightly rough surface.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-supernumerary-digits-1.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a small, well-defined, non-pigmented lesion on the skin, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-15.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a pearly appearance, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-26.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, and pigmented area with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-body-12.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and thin-walled area with a reddish-pink color, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065877.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous pinkish hue.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065314.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish hue and a slightly rough texture.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012487_downsampled.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a pinkish hue and a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-neurotic-excoriations-16.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, dome-shaped, with a central crater, and are well-demarcated from the surrounding skin.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-prurigo-nodularis-24.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, pinkish papules and plaques on the skin.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028807.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, pinkish area with a slightly raised border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-pustular-generalized-22.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a skin lesion with red, inflamed, and scaly patches, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056503.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a slightly irregular border and a homogeneous pinkish hue.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-syringoma-46.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows multiple small, rounded, and well-demarcated skin lesions with a smooth surface, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-prurigo-nodularis-38.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple small, dome-shaped papules with a well-defined border, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-primary-lesion-39.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, rounded, pinkish-red bumps with a slightly rough texture, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054346.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012159_downsampled.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054325.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a slightly rough texture.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_265.jpg",
-        "report": "Category: Fungal Infections / Tinea\nDescription: The image shows a thickened, scaly, and crusty skin, typical of a fungal infection.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-16.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, scaly, and non-pigmented skin lesion with a distinct border, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-204.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, pinkish area with a slightly rough texture, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-trunk-generalized-1.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The skin lesion shows widespread redness and inflammation, with visible vesicles and bumps, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060081.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a pinkish hue and a slightly rough texture, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-foot-webs-41.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a rough, scaly surface, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_118.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough texture, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060748.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish hue.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066721.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, polygonal area with a central depression and a slightly raised border. The surface appears to be composed of multiple layers with a somewhat glossy appearance.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-104.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-138.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a reddish-pink color.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Sclerosus-Skin-7.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows small, well-defined, non-pigmented lesions with a waxy appearance, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-91.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, dome-shaped papules with a central crater, and lack atypical features.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05Atopic10066.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, whitish, dome-shaped papules with a well-defined border, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-13tineaAmiantacea082106.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, scaly, hair-like structure on the skin, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-104.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple small, rounded, pinkish papules without significant erythema or ulceration.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-eczema-areola-5.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, non-pigmented, dome-shaped area with a slightly rough texture, different from the surrounding normal skin.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/0_19.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and slightly erythematous area with a pearly appearance.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05AtopicHand3.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a hand with dry, scaly skin, typical of eczema. The skin appears to have rough, flaky texture and is often associated with inflammation and itchiness.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-08sebdermFace1222069.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a reddish-brown color.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-eczema-fingertips-72.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows multiple small, rough, and scaly patches on the skin, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-125.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, dome-shaped area with a slightly rough surface, typical of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/4_0.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rough, scaly patches with a well-defined border.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069649.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple dome-shaped papules and a well-defined border.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030767.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a reddish-pink coloration.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-pustular-generalized-49.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, and non-inflamed area on the face, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-subacute-105.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, itchy, and inflamed skin area with visible scaling and multiple lesions.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061978.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background and a mixture of epidermal and dermal components.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/12_16.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The skin lesions are characterized by red, itchy, and inflamed patches with clear demarcation lines, typical of eczema.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-calcifying-epithelioma-5.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, slightly raised area with a smooth, pale surface, consistent with common benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-dermatofibroma-86.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and pigmented area with a benign appearance.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_27.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows inflamed, red, and itchy skin with clear, well-defined borders and raised, crusted areas.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062473.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a mix of pink and white hues.",
         "discovered_cluster": 2
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-laboratory-44.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a polygonal shape and a clear halo, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Pityriasis-Lichenoides-34.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is characterized by small, rounded, pinkish papules and a scaly background, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-impetiginized-10.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a characteristic appearance of keratin-filled cysts.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012969_downsampled.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, pigmented area with a slightly irregular border and a homogeneous appearance.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-face-9.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed area with a rough texture, typical of eczema.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/v-IchthosisIMG030-GP3.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and rough-textured area with no signs of malignancy.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064931.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, pinkish area with a slightly irregular border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-chondrodermatitis-nodularis-5.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different color and texture compared to the surrounding skin, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Lichen-Planus-Drug-19.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, and non-inflamed area with a reddish-pink color.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-24.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows red, inflamed skin with visible inflammation and rough texture.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059307.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/16_17.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, dome-shaped nodules with a rough, scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065051.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a mixture of pink and yellowish hues, typical of keratotic features.",
         "discovered_cluster": 2
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-55.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a reddish-pink background.",
-        "discovered_cluster": 0
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063166.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin.",
+        "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0015310_downsampled.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a reddish-brown coloration.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026322.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and uniformly pigmented area with a smooth surface.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028526.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, non-malignant, pearly or waxy appearance with a smooth border.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057748.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a homogeneous pinkish hue.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-syringoma-17.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows multiple small, dome-shaped papules and nodules on the skin surface, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-lichen-simplex-chronicus-17.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal structures with well-defined borders on the skin.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026124.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a homogeneous pinkish hue.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-foot-76.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple rough, scaling, and scaly patches with a well-defined border.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0068953.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, light-colored areas with a slightly rough texture, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070988.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple dome-shaped papules with a clear halo, characteristic of keratosis-like features.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/11_31.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped, reddish area with a slightly rough texture, consistent with common benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Sclerosus-Penis-22.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, dome-shaped lesion with a smooth surface, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-pilar-cyst-10.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped area with a slightly rough texture and a pale color, different from the surrounding skin.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0060933.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly raised appearance, typical of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Guttate-86.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The skin lesions are characterized by red, itchy patches, and appears to be inflamed.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-scalp-35.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a reddish-pink hue, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Chronic-Plaque-97.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, scaly, white patches resembling keratotic skin.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-foot-plantar-31.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, scaly, and dry skin lesion with keratin-filled scales.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058703.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-hand-154.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal, pink to reddish papules and plaques with a well-defined border.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058104.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a slightly erythematous background.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0065355.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, polygonal shape with a central depression and a rough, scaly surface.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-reiter-syndrome-3.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are small, rounded, and appear to be superficial, with a characteristic histological appearance.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069454.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-1.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, non-invasive, and appear as small, round, brownish papules on the skin.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0016036_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a homogeneous pinkish hue.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055735.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface and a pale color, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/2_13.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed skin area with noticeable scaling and raised, itchy patches.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Planus-Hypertrophic-3.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, pinkish area with a slightly raised border.",
         "discovered_cluster": 2
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063284.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-scalp-50.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish appearance.",
+        "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059585.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows small, well-defined, dome-shaped papules with a slightly rough surface.",
-        "discovered_cluster": 0
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028123.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a uniform color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-5T-0008.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The skin lesion shows widespread erythema with papules and plaques, characteristic of eczema.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056681.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a mix of pigmentation.",
         "discovered_cluster": 2
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059627.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 1
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Lichen-Nitidus-22.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, dome-shaped, white-pink bumps on the skin with a slightly scaly texture.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-99.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, dome-shaped, reddish-brown lesions with a slightly rough texture, consistent with common benign keratosis-like skin changes.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066721.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, polygonal area with a central depression and a slightly raised border. The surface appears to be composed of multiple layers with a somewhat glossy appearance.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031601.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-malignant, pearly nodule with a clear halo.",
+        "discovered_cluster": 0
     },
     {
         "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-chronic-51.jpg",
@@ -750,114 +205,509 @@
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-nummular-166.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface and a tan to pink coloration.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058277.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a yellowish hue and a slightly rough texture.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012961_downsampled.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and uniformly pigmented area with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/3_5.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, white area with a slightly raised border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057755.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a mixture of white and yellowish scales.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_182.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, pinkish nodules with a yellowish center, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-41.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, dome-shaped papules and pustules on a slightly erythematous background.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-reiter-syndrome-15.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are small, rounded, and appear to be non-invasive with a well-defined border, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059710.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a slightly irregular border.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-mouth-10.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, white to yellowish area with a slightly irregular border, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-hand-92.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows well-defined, dome-shaped, whitish, scaly patches consistent with keratotic skin.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/4_10.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, well-defined, pinkish papules without significant erythema or ulceration.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-83.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, dome-shaped, brownish nodule with a slightly rough surface, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069777.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish appearance.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-fingertips-111.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, scaly, and non-inflamed area consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-subacute-104.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/13_20.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a rough, scaly texture.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057219.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 1
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6832628.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is well-defined with a pigmented center and lighter surrounding areas, characteristic of keratosis-like lesions.",
+        "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Hand-42.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0033012.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly irregular border and a mix of pink and white hues, characteristic of keratotic features.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-pompholyx-12.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, dome-shaped, white to brownish papules and may have a slightly scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-psoriasis-palms-soles-125.jpg",
         "report": "Category: Eczema (湿疹)\nDescription: The image shows a hand with thick, red, scaly plaques consistent with eczema. The skin appears inflamed and there are visible scales, typical of this condition.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012489_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a homogeneous color.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Guttate-119.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The skin lesions are characterized by red, itchy, and inflamed patches with visible vesicles and bumps.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/7_6.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin, indicative of keratosis-like features.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0013227_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, dome-shaped, translucent growth with a smooth surface, consistent with benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05HyperlinearCreases0126.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, sun-exposed area with fine, hair-like projections on the skin surface.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071211.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057255.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pale center and a slightly raised border.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-79.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, round, pinkish papules without significant erythema or ulceration.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/0_41.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, itchy, and inflamed skin surface with typical erythematous plaques and possible inclusion bodies.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071235.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Lichen-Planus-Oral-13.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a rough, scaly surface, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-03ContactDerm040127.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, white area with a slightly rough texture on the lower lip.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-inversus-10.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, flesh-colored papule with a central fissure, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-foot-webs-75.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a mixture of keratin-filled cysts and a scaly surface.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-202.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows inflamed, itchy, and bumpy skin with a rough texture, typical of eczema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-10IMG007.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, itchy, and inflamed skin area with visible dryness and rough texture.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05SexLinkIchthy.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, non-pigmented lesion with a rough, scaly texture.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0029856.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067136.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background and a mixture of epidermal and dermal components.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033079.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a mix of pigmentation.",
         "discovered_cluster": 2
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-165.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0055097.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal growth pattern.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057705.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-body-12.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and thin-walled area with a reddish-pink color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/1_52.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped, pinkish area with a slightly rough texture, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0064817.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a mix of brown and tan colors, lacking significant atypia or dysplasia.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030976.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a pinkish hue and a slightly irregular border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-body-143.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a keratin-filled lumen, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keloids-80.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, flesh-colored papule with a slightly nodular surface.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-face-37.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, dome-shaped, and appear on the neck, with a characteristic histological appearance.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031461.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7437127.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is well-defined with a pigmented, slightly irregular border and a uniform appearance.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_163.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030696.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and uniformly pigmented area with a smooth surface.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-epidermal-cyst-126.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped, pinkish area with a slightly rough surface, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031770.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a pigmented appearance.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/15_77.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a rough, scaly texture.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-211.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, pinkish papules and plaques on the skin.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Psoriasis-Cellulitis-2.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, dome-shaped, and have a pearly appearance with a central crater, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-neurotic-excoriations-37.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a rough, scaly surface.",
-        "discovered_cluster": 4
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-subacute-42.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows areas of red, itchy, and inflamed skin with a rough texture, typical of eczema.",
+        "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7069003.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-actinomycosis-1.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a distinct, irregular border and a homogeneous, pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-large-skin-folds-19.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-nummular-19.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a resemblance to keratosis.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-13Fissure0426041.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a rough, scaly texture, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-asteatotic-49.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and crusty appearance with a uniform color.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-05atopicFeet0823043.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, non-pigmented lesion with a dome-shaped surface, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-50.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, dome-shaped structure with a smooth surface, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026343.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a slightly irregular border.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-Dyshidrosis-23.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple small, dome-shaped papules with a well-defined border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-perleche-25.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple dome-shaped nodules with a well-defined border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061143.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal proliferation with a pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-neurotic-excoriations-21.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rounded, pinkish-red bumps on a dry, scaly skin background.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-108.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a reddish-brown coloration.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-10IMG002.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, itchy, and inflamed skin area with visible inflammation and papules.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071604.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_155.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, white to yellowish patch on the skin with a non-pigmented background.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068356.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, pinkish area with a slightly irregular border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068505.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous center and a pale, non-pigmented periphery.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-face-56.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area on the skin.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-1IMG016.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a widespread, red, itchy rash on the skin, characteristic of eczema. The lesions appear with raised, inflamed patches on the skin, typically in clusters.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Planus-Palm-Soles-4.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a thickened, red, and scaly skin area with visible inflammation, characteristic of eczema.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-46.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, scaly, pinkish area with a slightly raised border.",
         "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065157.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Planus-Hypertrophic-7.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, non-inflamed papules with a pearly appearance, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059053.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface and a pale color, consistent with common benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/1_1.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-inflamed area with a slightly raised border and a homogeneous pinkish-red color.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7294446.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a uniform color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-psoriasis-palms-soles-86.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal, with some erythematous changes, and a well-demarcated appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-21.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a homogeneous, tan appearance.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-stasis-dermatitis-122.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows areas of erythema and scaling, with a rough, inflamed texture.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-primary-lesion-15.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and non-inflamed area with a reddish base, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_330.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, well-defined papules and plaques with a characteristic squamous cell appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070315.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background and a uniform appearance.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/1_38.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054128.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, polygonal area with keratin-filled structures and a clear halo, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054957.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a clear center and a pinkish base.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-183.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and scaly area with a slightly raised border.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-40.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a characteristic appearance of keratin-filled cysts.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-129.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, polygonal structures with a central clearing, resembling keratotic epithelium.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Hand-12.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The skin lesion shows prominent red, itchy, and inflamed patches with clear demarcation of affected areas, characteristic of eczema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-body-150.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple, dome-shaped, reddish-brown papules without significant erythema or ulceration.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/10_13.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows well-defined, dome-shaped, and slightly raised areas with a pinkish base and a whitish-gray border.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-stasis-dermatitis-79.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rough, white areas with a slightly raised border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070901.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous background and a well-demarcated border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0003056_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different color and texture compared to the surrounding skin.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026282.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-33.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows small, well-defined, pinkish papules and a scaly background, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061119.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0015483_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly erythematous border and a mixture of pink and red hues.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012877_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, tan appearance.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Palmoplantar-Keratoderma-3.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows well-defined, dome-shaped, whitish, scaly patches with a slightly rough surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-large-skin-folds-99.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows red, inflamed skin with visible inflammation and rough texture.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070328.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous background and a well-demarcated border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/16_39.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with keratin-filled lumen, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Hand-11.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows red, itchy, and inflamed skin with clear, well-defined borders.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keloids-24.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped, pinkish, and slightly raised area with a smooth surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-psoriasis-pustular-generalized-45.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and rough area with a reddish-brown color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-stasis-dermatitis-23.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed skin area with visible scaling and rough texture.",
+        "discovered_cluster": 1
     },
     {
         "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-hand-dorsum-38.jpg",
@@ -865,229 +715,409 @@
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-mycetoma-1.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, dome-shaped, reddish area with a slightly rough texture, typical of keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-183.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a characteristic appearance of keratin-filled cysts.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056291.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-seborrheic-dermatitis-94.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Guttate-99.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rounded, pinkish-red bumps on a non-itchy skin surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-chronic-30.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows inflamed, red, and itchy skin with clear, well-defined borders.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029119.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and uniformly pigmented area with a slightly irregular border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/101_4_0.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a rough, scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064884.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-133.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and scaly area with a reddish-pink color.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-keratolysis-exfoliativa-48.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal, whitish bumps on the skin, characteristic of keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025304.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, pigmented area with a slightly irregular border, characteristic of keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-128.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a pearly appearance, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0003005_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is well-defined with a pigmented center and a clear border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Pityriasis-Lichenoides-42.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area on the skin.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-166.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough texture and a pale, white appearance, different from the surrounding normal skin.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-15.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Pityriasis-Lichenoides-36.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rounded, pinkish papules without significant erythema or ulceration.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063984.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous pinkish hue.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-71.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a keratin-filled lumen, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/10_41.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, dome-shaped papules with a whitish-gray color and a slightly rough surface.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_157.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, red, scaly area with a slightly raised border, characteristic of keratotic growth.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064310.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough texture, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054439.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin, consistent with keratotic features.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029405.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different color from the surrounding skin, indicating a keratotic appearance.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-body-185.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion consists of multiple small, well-defined, pinkish papules without significant erythema or ulceration.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028590.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth texture.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063718.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal proliferation with a uniform pinkish hue.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056742.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, dome-shaped papules with a pinkish base and clear centers, characteristic of keratosis-like features.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026666.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish hue and a slightly rough texture, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061022.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067998.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin, consistent with benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_134.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, polygonal, and flattened papules with a clear center, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058410.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous center and a pale, scaly surface.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-hand-dorsum-35.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and red-brown area with a slightly raised border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070656.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous background and a homogeneous appearance.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/2_2.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a highly inflammatory skin lesion with erythematous plaques and papules, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-perleche-52.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, white to yellowish area with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064599.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a mixture of pink and white areas.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-7.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped area with a slightly different color from the surrounding skin, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064459.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface and a pale color, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-stasis-dermatitis-106.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules and nodules with a fibrinous crust, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-foot-86.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, polygonal, and pale areas with a slightly rough texture, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061096.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly different coloration compared to the surrounding skin, indicative of keratosis-like features.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-pityriasis-rosea-169.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a skin lesion with red, inflamed, and itchy skin, characteristic of eczema. The lesion appears to have a rough, scaly texture and is located on the neck.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-candidiasis-large-skin-folds-106.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesions are characterized by red, inflamed patches with visible keratinization, typical of eczema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-19.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a rough, scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064357.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, polygonal area with a rough, scaly surface.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Sclerosus-Skin-38.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped area with a slightly rough surface, consistent with common benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-lichen-simplex-chronicus-152.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal, pink to reddish papules and clusters with a well-defined border.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071426.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal proliferation with a uniform texture.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-03EczemaExcoriated.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a widespread, red, itchy, and inflamed skin area with multiple papules and plaques, characteristic of eczema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-pityriasis-rubra-pilaris-44.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and non-inflamed area with a typical appearance of keratin-filled papules.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Planus-Drug-10.jpg",
+        "report": "Category: Psoriasis / Lichen Planus\nDescription: The image shows a widespread, erythematous rash with silvery scales, characteristic of psoriasis or lichen planus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028447.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a pigmented appearance.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056296.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish hue.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-perleche-34.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, scaly, and slightly erythematous area with a pearly appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027038.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a pinkish hue and hair follicles around it.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/236_10_9.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a small, well-defined, pigmented area with a slightly irregular border.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025011.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, pigmented area with a slightly irregular border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-face-47.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous, pinkish appearance.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-nails-29.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, slightly irregular, non-inflamed skin lesion with a clear, dome-shaped surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-scalp-33.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows red, inflamed skin with visible inflammation and scaling.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-96.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, polygonal area with a rough, scaly surface and a central depression, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053543.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly erythematous border and a central nodule, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-intertrigo-73.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a rash with red, itchy, and inflamed skin, characteristic of eczema. The lesions have a rough, scaly texture and are widespread on the back.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-Dyshidrosis-17.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, scaly, and non-pigmented skin lesion with a rough texture.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070714.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough texture and a pale color, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-majocchi-granuloma-15.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The image shows a skin lesion with red, inflamed, and itchy patches, characteristic of eczema. The lesions have a rough, scaly texture and are distributed across the skin surface.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Axillary-Granular-Parakeratosis-7.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed, and scaly skin area with a rough texture, typical of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072602.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a pinkish hue, characteristic of keratotic features.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-large-skin-folds-98.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed, and itchy skin surface with numerous small, red, raised bumps.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-intertrigo-54.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, slightly erythematous area with a pearly or waxy appearance, consistent with benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071116.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with typical features of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0032185.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a pinkish hue, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Pityriasis-Lichenoides-26.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as multiple small, dome-shaped, white to scaly patches on the skin.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-north-american-blastomycosis-3.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and non-inflamed area with a reddish-brown color.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-08psoriasisIntertrig020606.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, flesh-colored papule with a slightly nodular surface.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030873.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a uniform color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Psoriasis-Guttate-110.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion consists of multiple small, dome-shaped papules with a clear center and a slightly erythematous halo, characteristic of keratotic features.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/10_2.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, slow-growing papules and plaques with a keratin-filled center, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-2.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, scaly, and non-inflamed area with a smooth texture.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-palm-35.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, scaly, and dry skin lesion with no signs of inflammation or abnormal coloration.",
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Planus-Drug-18.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is well-defined with a slightly irregular border and a uniform color, typical of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-4th1IMG021.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, scaly, and slightly erythematous area with a pearly appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029503.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a homogeneous color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-20cystAnal0531041.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, dome-shaped papules with a slightly erythematous base and a mixture of epidermal and dermal components.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-versicolor-115.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a widespread, red, and itchy rash on the chest and abdomen, characteristic of eczema.",
         "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071603.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a pinkish hue and a smooth surface, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-pityriasis-rosea-174.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The skin lesions are characterized by red, itchy bumps and inflammation, typical of eczema.",
+        "discovered_cluster": 1
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0073048.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly rough texture and a pale appearance, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 0
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0010239.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a pigmented surface, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063279.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-scalp-78.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows dry, scaly skin with clear signs of inflammation and erythema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-11.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a small, well-defined, pinkish-brown area with a slightly rough texture, consistent with benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-stasis-dermatitis-92.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped nodules with a rough, scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065549.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a pinkish hue, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065061.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal growth pattern.",
         "discovered_cluster": 3
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069709.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a homogeneous, pinkish base.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0013306_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-hand-10.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, rough, scaly patches with a well-defined border, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-mouth-16.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, scaly, and non-pigmented lesion with a network-like appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keratoacanthoma-11.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and scaly area with a pearly appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062845.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, slightly raised area with a rough, scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-groin-8.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, itchy, and inflamed skin area with a rough texture, typical of eczema.",
         "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-79.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, dome-shaped, and slightly raised area with a smooth, glistening surface, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-11.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, dome-shaped, white-pink lesion with a slightly rough texture, indicative of a benign keratosis.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-areola-17.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped area with a slightly rough surface, consistent with common benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-eczema-hand-150.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a hand with red, itchy, and inflamed skin, with visible scaling and bumps.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/3_9.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a slightly rough surface, consistent with benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-incognito-41.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, rounded, pinkish-red bumps on a slightly erythematous background.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064310.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough texture, consistent with typical features of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-penis-14.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a rough, scaly surface.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-18.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and roughened area with a reddish-brown color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071692.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-nummular-90.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, small, polygonal, pinkish papules with a well-defined border.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-34.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-demarcated, dome-shaped, and slightly raised area with a smooth surface, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-nummular-17.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows a red, inflamed area with a rough texture, typical of eczema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-body-151.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a fibrinous exudate, characteristic of keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-9.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, scaly, and pigmented area with a characteristic appearance of keratin-filled scales.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/9_19.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish hue and a slightly rough texture, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-kerion-8.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, dome-shaped papules with a central clearing, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Hand-2.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a hand with widespread red, itchy, and inflamed skin, characteristic of eczema. The lesions appear to be diffuse and superficial, with a focus on the hand, which is a common site for such symptoms.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071241.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, rounded, pinkish areas with a slightly rough texture, characteristic of keratotic features.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0072752.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly raised border and a uniform color, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6845966.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and uniformly pigmented area with a smooth surface.",
+        "discovered_cluster": 3
     },
     {
         "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-5.jpg",
@@ -1095,148 +1125,98 @@
         "discovered_cluster": 0
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071758.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish hue and a slightly rough texture, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/8_22.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, dome-shaped papules with a whitish-grey color and a slightly rough surface.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072666.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-laboratory-35.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-invasive lesion with a rough, scaly surface, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055875.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/v-4th1IMG007.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-demarcated, non-pigmented lesion with a network-like appearance, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-versicolor-135.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple small, dome-shaped papules and pustules on a non-irritated, pinkish skin background.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064679.jpg",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071864.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly erythematous border and a homogeneous pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0013399_downsampled.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, pigmented area with a slightly irregular border, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-pityriasis-rosea-11.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are small, rounded, and appear to be non-invasive with a well-defined border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-20.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion consists of multiple small, dome-shaped papules and clusters, characteristic of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/14_18.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, pearly white spots with a slightly irregular border, and are distributed across the skin surface.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-accessory-nipple-8.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, dome-shaped, pinkish nodule with a slightly rough surface, typical of benign keratosis-like lesions.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067080.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly erythematous background.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-reiter-syndrome-8.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, non-inflamed skin lesion with a rough, scaly texture.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028585.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant appearance with a reddish-pink color and a slightly irregular border.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065963.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/2_20.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: The image shows a red, inflamed skin area with visible erythema and scaling, characteristic of eczema.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054633.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant structure with a homogeneous pinkish hue.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/8_7.jpg",
+        "report": "Category: Eczema (湿疹)\nDescription: Presence of erythematous plaques with possible scaling and inflamed skin.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-primary-lesion-2.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, scaly, white-to-light pink lesion with a slightly irregular border.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054060.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a pale, slightly erythematous background and a non-pigmented, granular surface.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/0_15.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple dome-shaped, red, and scaly papules consistent with keratotic features.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070430.jpg",
         "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface, consistent with typical features of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056695.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a uniform color, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/0_10.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-defined, red-pink plaques with a slightly nodular texture.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/v-eczema-foot-91.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a thickened and scaly skin area with a well-defined border, characteristic of benign keratosis-like lesions.",
         "discovered_cluster": 4
     },
     {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7013680.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive area with a slightly irregular border and a uniform color, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-porokeratosis-165.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion appears as a well-defined, non-pigmented, and slightly erythematous area with a somewhat nodular surface.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063635.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a slightly irregular border and a uniform color.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057168.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface and a pinkish hue.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0062658.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive, and non-malignant epidermal proliferation with a pinkish hue.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057511.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly raised border and a pinkish hue, characteristic of keratotic skin changes.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-erythrodermic-26.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The skin lesion shows widespread redness and thickened, inflamed skin with clear, well-demarcated plaques.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-68.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a slightly rough surface and a pinkish hue, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-11IMG010.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows thickened, red, and scaly skin with areas of peeling, characteristic of eczema.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-eczema-trunk-generalized-15.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-demarcated, scaly, and rough area with a reddish-brown color, typical of benign keratosis-like lesions.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/v-5IMG007.jpg",
-        "report": "Category: Eczema (湿疹)\nDescription: The lesion shows dry, scaly skin with clear signs of inflammation and redness.",
-        "discovered_cluster": 2
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/6_204.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with keratin-filled lumen, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-stasis-dermatitis-126.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, pigmented bumps of varying sizes on the skin, consistent with benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0029201.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, dome-shaped area with a pinkish base and a whitish, crusty surface.",
-        "discovered_cluster": 0
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0032825.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion is a well-defined, pigmented area with a slightly irregular border, characteristic of keratosis-like lesions.",
-        "discovered_cluster": 1
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-pustular-generalized-34.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, dome-shaped lesion with a smooth surface, characteristic of benign keratosis-like lesions.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-penis-19.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows multiple, well-demarcated, dome-shaped papules with a rough, scaly surface.",
-        "discovered_cluster": 4
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071955.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesion shows a well-defined, non-invasive structure with a pigmented surface.",
-        "discovered_cluster": 3
-    },
-    {
-        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/1. Eczema 1677/t-Dyshidrosis-46.jpg",
-        "report": "Category: Benign Keratosis-like Lesions\nDescription: The image shows a well-defined, slightly raised lesion with a smooth surface, characteristic of benign keratosis-like lesions.",
+        "img_name": "/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-91.jpg",
+        "report": "Category: Benign Keratosis-like Lesions\nDescription: The lesions are well-defined, dome-shaped papules with a central crater, and lack atypical features.",
         "discovered_cluster": 4
     }
 ]

@@ -48,8 +48,10 @@ def get_arguments():
     # 其余 8 类杂病全部退归为 OOD 拦截池
     parser.add_argument("--ood_cls", nargs="+", type=int, default=[0, 2, 3, 5, 6, 7, 8, 9])
     
-    # 💡 核心修改三：默认将挑选出的 50 张冷启动种子保存到 al_file_skin 独立空间中
-    parser.add_argument("--save_csv", type=str, default="al_file_skin/clip_query_round_1.csv")
+    # ⚡️ 修改点 2：修改保存地址至 round_2.csv，防止历史版本被覆盖
+    parser.add_argument("--save_csv", type=str, default="al_file_skin/clip_query_round_2.csv")
+    
+    # ⚡️ 修改点 1：将冷启动选片预算从 100 张改回 50 张
     parser.add_argument("--init_num", type=int, default=50)
     return parser.parse_args()
 
@@ -239,7 +241,8 @@ if __name__ == "__main__":
     print("-" * 45)
 
     # 引入学术标准的多样性 K-Means++ 空间采样
-    print(f"🎯 正在对初筛出的候选空间执行冷启动多样性 K-Means++ 空间约束采样...")
+    # ⚡️ 核心扩容修改：动态基于更新后的 args.init_num (50) 在空间中精确采出 50 个类簇中心
+    print(f"🎯 正在对初筛出的候选空间执行冷启动多样性 K-Means++ 空间约束采样 (锁定目标 {args.init_num} 张)...")
     cluster_idx = kmean_cluster(embeds=embeds_id, n=args.init_num)
     names_init_select = names_id_vlm[cluster_idx]
     label_select = np.array([train_dict[item] for item in names_init_select])
@@ -249,6 +252,8 @@ if __name__ == "__main__":
     for name in names_init_select:
         if name in [item['img'] for item in train_id_files]:
             count += 1
+            
+    # ⚡️ 指标分母自动无缝锚定为实际抽出的 50 张
     qp_score = (count / args.init_num) * 100
     print(f"\n✨ 【皮肤冷启动消融实验核心指标】")
     print(f" └─ 💡 最终选出的 {args.init_num} 张种子图片查询精准度 Query Precision (QP): {qp_score:.2f}%")

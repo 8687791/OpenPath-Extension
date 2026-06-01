@@ -7,11 +7,11 @@ def main():
     parser = argparse.ArgumentParser(description="计算皮肤数据集冷启动阶段的种子纯度 (QP)")
     
     # 💡 核心设定一：路径全面指向皮肤隔离文件夹 al_file_skin
-    parser.add_argument("--query_csv", type=str, default="al_file_skin/query_round_4.csv", help="VLM生成的冷启动文件")
+    parser.add_argument("--query_csv", type=str, default="al_file_skin/clip_query_round_1.csv", help="VLM生成的冷启动文件")
     parser.add_argument("--truth_csv", type=str, default="al_file_skin/train.csv", help="包含全量真实标签的CSV文件")
     
     # 💡 核心设定二：严格对齐刚才代码中定下的皮肤 ID 类别 (1=Melanoma, 3=BCC)
-    parser.add_argument("--id_cls", nargs="+", type=int, default=[1, 3], help="目标已知类的Label整数值")
+    parser.add_argument("--id_cls", nargs="+", type=int, default=[1, 4], help="目标已知类的Label整数值")
     args = parser.parse_args()
 
     # 1. 确保文件存在

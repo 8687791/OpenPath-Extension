@@ -5,7 +5,7 @@ import numpy as np
 
 def main():
     parser = argparse.ArgumentParser(description="计算冷启动阶段第一轮的种子纯度 (QP)")
-    parser.add_argument("--query_csv", type=str, default="al_file/query_round_1.csv", help="VLM生成的冷启动文件")
+    parser.add_argument("--query_csv", type=str, default="al_file/query_round_5.csv", help="VLM生成的冷启动文件")
     parser.add_argument("--truth_csv", type=str, default="al_file/train.csv", help="包含全量真实标签的CSV文件")
     # 严格对齐 OpenPath 论文中 CRC100K 的 ID 类别：LYM, NORM, TUM 对应的标签
     parser.add_argument("--id_cls", nargs="+", type=int, default=[3, 6, 8], help="目标已知类的Label整数值")

@@ -75,13 +75,16 @@ def load_internvl(model_path="pretrained/InternVL2_5-2B"):
     return model, tokenizer
 
 
-def generative_ood_discovery(args, dataloader, model, tokenizer):
+def generative_ood_discovery(args, dataloader, model, tokenizer, truth_dict, gold_id_classes):
     """
-    基于全新 10 分类皮肤疾病提示词的生成式阅片与高级过滤逻辑
+    基于全新 10 分类皮肤疾病提示词的生成式阅片与高级过滤逻辑 (含 tqdm 真实 ID 数量实时检测)
     """
     id_candidates_names = []
     id_features = []
     ood_descriptions = []
+    
+    # 💡 实时统计控制台真值指标计数器
+    running_true_id_in_pool = 0  # 判定为 ID 且真值确实是 1 或 3 的样本数量
     
     # 💡 10 大皮肤病单选题
     vqa_prompt = (
@@ -97,20 +100,20 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
         "9. Fungal Infections / Tinea (真菌感染/癣)\n"
         "10. Viral Infections / Warts (病毒感染/疣)\n\n"
         "Respond strictly in this format:\n"
-        "Category: [Input the exact category name or keywords from the list above, e.g., Melanoma or Melanocytic Nevi]\n"
+        "Category: [Input the exact category name or keywords from the list above, e.g., Melanoma or Basal Cell Carcinoma (BCC)]\n"
         "Description: [A brief one-sentence reasoning focusing on lesion appearance]"
     )
     
-    gold_id_tags = ['melanoma', 'melanocytic nevi', 'nevi']
-    
+    gold_id_tags = ['melanoma', 'basal cell carcinoma', 'bcc', 'carcinoma']
     transform = build_transform(input_size=448)
-    print("\n🔍 开始基于 10-Way 皮肤单选的生成式阅片与 OOD 精准拦截...")
     
+    print("\n🔍 开始基于 10-Way 皮肤单选的生成式阅片与 OOD 精准拦截...")
     pbar = tqdm(dataloader, desc="皮肤阅片进度")
     
     for idx, sample in enumerate(pbar):
         img_tensor = sample['img']
         img_name = sample['img_name'][0]
+        base_name = os.path.basename(img_name)
         
         pil_img = tensor_to_pil(img_tensor)
         pixel_values = transform(pil_img).unsqueeze(0).to(torch.bfloat16).cuda()
@@ -133,15 +136,24 @@ def generative_ood_discovery(args, dataloader, model, tokenizer):
                 vision_embeds = model.extract_feature(pixel_values).mean(dim=1).cpu().float().numpy()
                 id_candidates_names.append(img_name)
                 id_features.append(vision_embeds[0])
+                
+                # 💡 实时检测：如果大模型判定的 ID，真值确实在 [1, 3] 靶点里，则计数
+                if truth_dict.get(base_name) in gold_id_classes:
+                    running_true_id_in_pool += 1
             else:
                 ood_descriptions.append({
                     "img_name": img_name,
                     "report": generated_report
                 })
         
+        # 💡 计算并刷新初筛池内真正的 ID 占比
+        current_pool_size = len(id_candidates_names)
+        current_qp = (running_true_id_in_pool / current_pool_size * 100) if current_pool_size > 0 else 0.0
+        
         pbar.set_postfix({
-            "ID_Found": len(id_candidates_names),
-            "OOD_Blocked": len(ood_descriptions)
+            "ID候选(Pool)": current_pool_size,
+            "真正ID数": running_true_id_in_pool,
+            "初筛实时精度": f"{current_qp:.2f}%"
         })
 
     print(f"\n🌟 皮肤扫描完成！找到 {len(id_candidates_names)} 个已知类 (ID) 样本候选，拦截 {len(ood_descriptions)} 个潜在的皮肤未知类 (OOD) 杂病样本。")
@@ -262,13 +274,15 @@ def main():
     
     model, tokenizer = load_internvl(model_path="pretrained/InternVL2_5-2B")
     
-    names_id_vlm, embeds_id = generative_ood_discovery(args, train_loader, model, tokenizer)
+    # 💡 将真值映射与目标类别传入函数，实现运行时实时检测
+    gold_id_classes = [1, 3] 
+    names_id_vlm, embeds_id = generative_ood_discovery(
+        args, train_loader, model, tokenizer, truth_dict, gold_id_classes
+    )
     
     if len(names_id_vlm) == 0:
-        print("❌ 错误：大模型未在探索池中发现任何匹配的 ID 样本！")
+        print("❌ 错误：大模型未在探索池中发现 any 匹配的 ID 样本！")
         return
-
-    gold_id_classes = [1, 4] 
 
     # ==================================================
     # 📊 阶段 1: 大模型初筛全量候选池纯度测评
@@ -280,7 +294,7 @@ def main():
                 
     raw_qp = (vlm_raw_id_count / len(names_id_vlm)) * 100 if len(names_id_vlm) > 0 else 0
     print(f" ├─ 大模型初筛总候选数: {len(names_id_vlm)}")
-    print(f" ├─ 真正目标类 (ID: 1=Mel, 4=Nevi) 数量: {vlm_raw_id_count}")
+    print(f" ├─ 真正目标类 (ID: 1=Mel, 3=BCC) 数量: {vlm_raw_id_count}")
     print(f" ├─ 混入错误未知类 (OOD 噪声) 数量: {vlm_raw_ood_count}")
     print(f" └─ 💡 原始初筛池精准度 (Raw Query Precision): {raw_qp:.2f}%")
     print("="*50 + "\n")
@@ -314,7 +328,7 @@ def main():
     def calc_qp_report(selected_list):
         id_count = sum([1 for n in selected_list if truth_dict.get(os.path.basename(n)) in gold_id_classes])
         ood_count = len(selected_list) - id_count
-        qp = (id_count / len(selected_list)) * 100
+        qp = (id_count / len(selected_list)) * 100 if len(selected_list) > 0 else 0
         return id_count, ood_count, qp
 
     b_id, b_ood, b_qp = calc_qp_report(selected_b)
@@ -332,6 +346,7 @@ def main():
     print(f" └─ 💡 最终查询精准度 (QP): {c_qp:.2f}%")
     print(f" 📁 账本已保存至: {csv_c}")
     print("="*60 + "\n")
+
 
 if __name__ == '__main__':
     main()

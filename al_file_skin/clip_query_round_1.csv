@@ -1,51 +1,101 @@
 img,cls_label
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7490776.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030409.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059088.jpg,5
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025291.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025632.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031145.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071250.jpg,3
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029393.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027395.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6876309.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7449020.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-epidermal-nevus-74.jpg,7
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0072042.jpg,5
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012710_downsampled.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0008528_downsampled.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0000385_downsampled.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030809.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6955242.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029637.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7264813.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027880.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0032693.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025460.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0033058.jpg,4
 /root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031085.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-80.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7474994.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7612427.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029696.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026725.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062782.jpg,3
 /root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-versicolor-138.jpg,8
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025809.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030077.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027712.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026581.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027083.jpg,5
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-melanoma-mimic-9.jpg,7
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070911.jpg,3
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7378303.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070138.jpg,3
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7283084.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7093104.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-16.jpg,7
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031602.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027035.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067283.jpg,5
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-92.jpg,7
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7097002.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030331.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7228524.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6754749.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026695.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7540354.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069642.jpg,5
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059755.jpg,3
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6759173.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030476.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028963.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7293697.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7107371.jpg,1
 /root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027059.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061871.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029467.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0000342.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0032334.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027535.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030476.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030874.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027395.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026408.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060193.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-92.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026209.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0025876.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031991.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-spiny-keratoderma-3.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0010488.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0008507_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026852.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071414.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7293349.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6894346.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025809.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067329.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028509.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0014687_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012739_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7402256.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6876309.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031560.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0000900_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-22.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6811363.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7000530.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027035.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054965.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027545.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6932694.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6955242.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032655.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0033057.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6822917.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0012156_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054189.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028274.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0013656_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0014904_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025335.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025291.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0014080_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/2_22.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025597.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0029637.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031769.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0027712.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0010348.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0006193_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/0_17.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7105964.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031223.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0013330_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7402440.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067042.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059570.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030409.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6759173.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7484618.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028944.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0016017_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/6_13.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-smooth-94.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7553970.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028963.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7097002.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068243.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-ruff-123.jpg,7
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030077.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033908.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-scalp-87.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027202.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059755.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0013921_downsampled.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026497.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6904410.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054931.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-14.jpg,7

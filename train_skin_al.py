@@ -27,7 +27,17 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 
 def normalize_path(path):
     path = str(path)
-    if os.path.exists(path): return path
+    # ⚡️ 强力防爆补丁：如果大盘账本记录的物理路径在硬盘里撞墙找不到
+    if not os.path.exists(path):
+        # 1. 修复第 6 类 (BKL) 的双空格退化 Bug
+        if "BKL) 2624" in path:
+            fixed_path = path.replace("BKL) 256", "BKL)  256").replace("BKL) 2624", "BKL)  2624")
+            if os.path.exists(fixed_path): return fixed_path
+            
+        # 2. 如果还有其他由于空格或者相对路径引起的错位，统一尝试转为绝对路径做二次兜底
+        abs_path = os.path.abspath(path)
+        if os.path.exists(abs_path): return abs_path
+        
     return path
 
 def seed_torch(seed=42):
@@ -363,7 +373,7 @@ if __name__ == "__main__":
             
             memory_checkpoints['0-ST'] = copy.deepcopy(model.state_dict())
             labeled_data_all = copy.deepcopy(initial_labeled)
-            precision_list.append(len(labeled_ID)/args.query_num)
+            precision_list.append(len(labeled_ID) / len(initial_data))
         else:
             model = BMC_Vision_FT_Lit(pretrain=True, num_class=len(id_cls), args=args)
             model.load_state_dict(memory_checkpoints[f'{i-1}-ST'])
