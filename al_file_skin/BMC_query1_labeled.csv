@@ -1,20 +1,51 @@
 img,cls_label
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6666329.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7204370.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0000117_downsampled.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031602.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7128007.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026562.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0030028.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0033058.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0031562.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025106.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_6968422.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028374.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0028472.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7056918.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0025300.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033900.jpg,5
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7484555.jpg,1
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0000085_downsampled.jpg,4
-/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7095615.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/5. Melanocytic Nevi (NV) - 7970/ISIC_0026900.jpg,4
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-scalp-24.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055089.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Guttate-123.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/7_13.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7321960.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candidiasis-diaper-18.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-foot-plantar-40.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031903.jpg,5
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-hand-dorsum-8.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-laboratory-34.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063290.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-13tineaPed121905.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-11.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Histology-24.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/v-05Atopic040504.jpg,2
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068358.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/t-8IMG005.jpg,2
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Sclerosus-Penis-6.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7452348.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-nails-12.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/10_0.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026213.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072638.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Lichen-Sclerosus-Skin-63.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-Psoriasis-Chronic-Plaque-108.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-candida-penis-48.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057090.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-psoriasis-palms-soles-161.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/11_4.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7126877.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/3. Atopic Dermatitis - 1.25k/1_26.jpg,2
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/8_77.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056631.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055850.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/v-tinea-hand-dorsum-21.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/0_22.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-124.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-pityriasis-rosea-106.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/2. Melanoma 15.75k/ISIC_7332868.jpg,1
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-foot-webs-57.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070237.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-Psoriasis-Chronic-Plaque-92.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/3_11.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/v-seborrheic-dermatitis-15.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-groin-117.jpg,8
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059094.jpg,3
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-128.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/7. Psoriasis pictures Lichen Planus and related diseases - 2k/t-lichen-planus-21.jpg,6
+/root/gpufree-data/OpenPath-main/data/SkinTissue/IMG_CLASSES/9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k/t-tinea-primary-lesion-41.jpg,8

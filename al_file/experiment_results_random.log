@@ -1,0 +1,157 @@
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:07:54
+Seed: 67
+ID classes: [0, 6, 8]
+OOD classes: [1, 2, 3, 4, 5, 7]
+Final query size: 50
+Pool ID/OOD: 122/178
+Pool QP: 40.67%
+Final query ID/OOD: 26/24
+Final query QP: 52.00%
+Total runtime: 00h 00m 00.26s
+================================================================================
+
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:08:11
+Seed: 22
+ID classes: [1, 3, 8]
+OOD classes: [0, 2, 4, 5, 6, 7]
+Final query size: 50
+Pool ID/OOD: 99/201
+Pool QP: 33.00%
+Final query ID/OOD: 21/29
+Final query QP: 42.00%
+Total runtime: 00h 00m 00.21s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:08:20
+Seed: 42
+ID classes: [1, 5, 7]
+OOD classes: [0, 2, 3, 4, 6, 8]
+Final query size: 50
+Pool ID/OOD: 95/205
+Pool QP: 31.67%
+Final query ID/OOD: 19/31
+Final query QP: 38.00%
+Total runtime: 00h 00m 00.24s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:08:24
+Seed: 52
+ID classes: [0, 1, 2]
+OOD classes: [3, 4, 5, 6, 7, 8]
+Final query size: 50
+Pool ID/OOD: 113/187
+Pool QP: 37.67%
+Final query ID/OOD: 17/33
+Final query QP: 34.00%
+Total runtime: 00h 00m 00.20s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:08:44
+Seed: 62
+ID classes: [5, 7, 8]
+OOD classes: [0, 1, 2, 3, 4, 6]
+Final query size: 50
+Pool ID/OOD: 120/180
+Pool QP: 40.00%
+Final query ID/OOD: 24/26
+Final query QP: 48.00%
+Total runtime: 00h 00m 00.18s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:08:52
+Seed: 72
+ID classes: [0, 1, 4]
+OOD classes: [2, 3, 5, 6, 7, 8]
+Final query size: 50
+Pool ID/OOD: 90/210
+Pool QP: 30.00%
+Final query ID/OOD: 13/37
+Final query QP: 26.00%
+Total runtime: 00h 00m 00.21s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:08:56
+Seed: 92
+ID classes: [0, 5, 6]
+OOD classes: [1, 2, 3, 4, 7, 8]
+Final query size: 50
+Pool ID/OOD: 115/185
+Pool QP: 38.33%
+Final query ID/OOD: 19/31
+Final query QP: 38.00%
+Total runtime: 00h 00m 00.18s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:09:20
+Seed: 48
+ID classes: [2, 5, 6]
+OOD classes: [0, 1, 3, 4, 7, 8]
+Final query size: 50
+Pool ID/OOD: 109/191
+Pool QP: 36.33%
+Final query ID/OOD: 22/28
+Final query QP: 44.00%
+Total runtime: 00h 00m 00.20s
+================================================================================
+
+================================================================================
+Method: Random
+Timestamp: 2026-08-26 16:09:26
+Seed: 81
+ID classes: [2, 6, 7]
+OOD classes: [0, 1, 3, 4, 5, 8]
+Final query size: 50
+Pool ID/OOD: 93/207
+Pool QP: 31.00%
+Final query ID/OOD: 14/36
+Final query QP: 28.00%
+Total runtime: 00h 00m 00.18s
+================================================================================
+
+================================================================================
+Method: OpenPath-same-pool
+Timestamp: 2026-08-26 16:26:14
+Seed: 67
+ID classes: [0, 6, 8]
+OOD classes: [1, 2, 3, 4, 5, 7]
+Final query size: 50
+Screened ID-candidate count: 79
+Screened candidate ID/OOD: 72/7
+Raw screened QP: 91.14%
+Final query ID/OOD: 43/7
+Final query QP: 86.00%
+Total runtime: 00h 00m 15.56s
+================================================================================
+
+================================================================================
+Method: OpenPath-same-pool
+Timestamp: 2026-08-26 16:27:07
+Seed: 22
+ID classes: [1, 3, 8]
+OOD classes: [0, 2, 4, 5, 6, 7]
+Final query size: 50
+Screened ID-candidate count: 139
+Screened candidate ID/OOD: 93/46
+Raw screened QP: 66.91%
+Final query ID/OOD: 31/19
+Final query QP: 62.00%
+Total runtime: 00h 00m 12.90s
+================================================================================

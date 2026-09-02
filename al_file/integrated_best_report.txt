@@ -1,0 +1,23 @@
+========================================================================
+Blood Cell Active Learning Integrated QA Report (Real-time Output)
+========================================================================
+[EOS]
+recipe: exp2_vcot_highres_fixed
+vlm_candidates: 500
+best_sampler: graph | selected 50 | correct 14 | QA accuracy 28.00%
+------------------------------------------------------------------------
+[LYM]
+recipe: exp2_vcot_highres_fixed
+vlm_candidates: 0
+no candidates found
+------------------------------------------------------------------------
+[MON]
+recipe: exp1_baseline_random_crop
+vlm_candidates: 1
+best_sampler: density | selected 1 | correct 0 | QA accuracy 0.00%
+------------------------------------------------------------------------
+[NEU]
+recipe: exp1_baseline_random_crop
+vlm_candidates: 415
+best_sampler: graph | selected 50 | correct 12 | QA accuracy 24.00%
+------------------------------------------------------------------------

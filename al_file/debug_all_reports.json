@@ -1,0 +1,1802 @@
+[
+    {
+        "img_name": "t-Lichen-Sclerosus-Penis-9.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate, characterized by the presence of red and purple discoloration."
+    },
+    {
+        "img_name": "t-Psoriasis-Histology-19.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal tissue."
+    },
+    {
+        "img_name": "ISIC_7192100.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense cluster of inflammatory cells, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0033169.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6661691.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0026900.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-sebaceous-hyperplasia-0098.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_7013549.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0063004.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with visible stratum corneum and underlying layers."
+    },
+    {
+        "img_name": "ISIC_0032523.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-eczema-subacute-63.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0009912.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "v-psoriasis-palms-soles-125.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0030378.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with visible hair follicles and a pigmented lesion, characteristic of epidermal tissue."
+    },
+    {
+        "img_name": "t-05atopicChild0828063.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7298008.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0033200.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0066572.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7116124.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0025898.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with a visible pigment network, characteristic of melanocytic lesions."
+    },
+    {
+        "img_name": "ISIC_0012806_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis, identifiable by the presence of connective tissue and the absence of the epidermal layer."
+    },
+    {
+        "img_name": "ISIC_7418723.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells."
+    },
+    {
+        "img_name": "ISIC_7417678.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis with visible hair follicles and connective tissue."
+    },
+    {
+        "img_name": "ISIC_0069002.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis with visible collagen fibers and blood vessels."
+    },
+    {
+        "img_name": "ISIC_0031101.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-epidermal-cyst-172.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: HAIR\nDescription: The image shows a hair follicle with visible hair shaft."
+    },
+    {
+        "img_name": "ISIC_0029800.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6671773.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6863895.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent pigmented lesion, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "v-Lichen-Sclerosus-Skin-43.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei, indicative of an immune response."
+    },
+    {
+        "img_name": "ISIC_7546219.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "1_36.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a close-up of the skin surface with visible hair follicles and pigmentation, characteristic of the epidermis."
+    },
+    {
+        "img_name": "ISIC_0010247.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0033201.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_0029159.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "t-tinea-versicolor-120.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a skin surface with numerous small, red papules, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0069382.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0024690.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0002885_downsampled.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with a visible pigment network and hair follicle, characteristic of the skin's outermost layer."
+    },
+    {
+        "img_name": "ISIC_0031798.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by a cluster of cells within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0072616.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a blood vessel with visible red staining, indicative of hematoxylin and eosin staining."
+    },
+    {
+        "img_name": "ISIC_0029663.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7176676.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0070096.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a layered structure typical of the epidermis, with a clear arrangement of cells and minimal presence of deeper tissue structures."
+    },
+    {
+        "img_name": "ISIC_0069066.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7555232.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: 4\nDescription: The image shows a hair follicle with a visible hair shaft."
+    },
+    {
+        "img_name": "ISIC_0029346.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-pityriasis-rubra-pilaris-3.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "t-trichoepithelioma-2.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a close-up of the skin with visible inflammatory infiltrates, characterized by clusters of cells, likely lymphocytes, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0067882.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_6914893.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis, identifiable by the presence of connective tissue and hair follicles."
+    },
+    {
+        "img_name": "ISIC_0026621.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0067681.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6707990.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "t-seborrheic-keratoses-ruff-183.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0028122.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_7049334.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_0014834_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0069198.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-tinea-incognito-37.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with significant inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0067706.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7399433.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0054477.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0032073.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a structure consistent with a blood vessel, characterized by the presence of a darkly stained lumen and surrounding connective tissue."
+    },
+    {
+        "img_name": "t-lichen-simplex-chronicus-87.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-eczema-foot-59.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0025333.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7358425.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-Psoriasis-Hand-31.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an inflammatory infiltrate with numerous small, round cells infiltrating the skin tissue."
+    },
+    {
+        "img_name": "ISIC_0057248.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-candidiasis-large-skin-folds-99.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "t-eczema-chronic-6.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0028202.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "t-08TineaAmiantacea.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-seborrheic-dermatitis-13.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0029899.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, dark-staining cells."
+    },
+    {
+        "img_name": "v-15IMG009.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a layered structure typical of the epidermis, with a focus on the superficial skin layers."
+    },
+    {
+        "img_name": "v-candidiasis-diaper-7.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0026133.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "t-keratoacanthoma-122.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, indicative of an immune response."
+    },
+    {
+        "img_name": "ISIC_0024317.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the epidermis."
+    },
+    {
+        "img_name": "t-eczema-subacute-64.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows the dermis layer, characterized by the presence of collagen fibers and blood vessels."
+    },
+    {
+        "img_name": "ISIC_0029148.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "1_5.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0026547.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0032546.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-dermatofibroma-56.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0062965.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0030709.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense cluster of cells, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_7512698.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: 4\nDescription: The image shows a hair follicle with surrounding skin tissue."
+    },
+    {
+        "img_name": "ISIC_0026581.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by a cluster of cells within the dermal layer."
+    },
+    {
+        "img_name": "v-neurotic-excoriations-44.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei, indicative of an immune response."
+    },
+    {
+        "img_name": "ISIC_0016040_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0028005.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0026401.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_6968124.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with visible pigmentation and hair follicles."
+    },
+    {
+        "img_name": "ISIC_0031120.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_7198887.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0028457.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-Psoriasis-Chronic-Plaque-127.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-epidermal-nevus-53.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0026687.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0028945.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a blood vessel with a prominent lumen and surrounding connective tissue."
+    },
+    {
+        "img_name": "ISIC_0057290.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0053583.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0010075.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0055890.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_6856140.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-stasis-dermatitis-16.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0012191_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_0027028.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by a cluster of cells within the dermis."
+    },
+    {
+        "img_name": "t-erosio-interdigitalis-blastomycetica-12.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0024957.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "3_25.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_7023656.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by a cluster of cells within the dermis."
+    },
+    {
+        "img_name": "t-candidiasis-large-skin-folds-122.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0010347.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-tinea-nigra-1.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_6946330.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: 4\nDescription: The image shows hair follicles with associated skin tissue."
+    },
+    {
+        "img_name": "t-keratoacanthoma-95.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0027406.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0030189.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with visible skin surface features and hair follicles."
+    },
+    {
+        "img_name": "t-candidiasis-diaper-9.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate in the skin tissue."
+    },
+    {
+        "img_name": "ISIC_0031048.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0028208.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei, indicative of an immune response."
+    },
+    {
+        "img_name": "ISIC_0063530.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis, identifiable by the presence of connective tissue and collagen fibers."
+    },
+    {
+        "img_name": "v-eczema-asteatotic-53.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0057085.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "t-eczema-subacute-108.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: HAIR\nDescription: The image shows a hair follicle with a visible hair shaft."
+    },
+    {
+        "img_name": "ISIC_0029090.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a blood vessel with a prominent red hue, indicative of vascular structures."
+    },
+    {
+        "img_name": "t-kyrle-disease-1.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a cluster of small, round, pinkish structures consistent with an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_7505254.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by numerous small, dark-staining cells within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0066940.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_6927916.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0029068.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0024393.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense, darkly stained area indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0056219.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0028850.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by a cluster of cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0033391.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0000366.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0071104.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-05AtopicDerm041904.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "v-eczema-nummular-133.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0032905.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_0058711.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "v-kerion-5.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: HAIR\nDescription: The image shows a close-up of a hair follicle with a visible hair shaft."
+    },
+    {
+        "img_name": "ISIC_7068548.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0026932.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6855125.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-Lichen-Sclerosis-Vulva-28.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis, characterized by the presence of collagen fibers and the absence of epidermal structures."
+    },
+    {
+        "img_name": "ISIC_0031960.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0025010.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis with visible hair follicles and connective tissue."
+    },
+    {
+        "img_name": "ISIC_0027273.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0030644.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "t-Lichen-Sclerosus-Skin-33.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0029587.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_0007788_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-pityriasis-rosea-15.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a skin surface with numerous small, red, and inflamed lesions, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0001187_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "t-keratoacanthoma-180.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-keratolysis-exfoliativa-1.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "t-Psoriasis-Guttate-62.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a skin surface with multiple erythematous patches, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-nevus-sebaceous-36.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0028230.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with a focus on the skin surface, including hair follicles and pigmentation."
+    },
+    {
+        "img_name": "ISIC_0031740.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-epidermal-cyst-133.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis, characterized by the presence of collagen fibers and a dense network of blood vessels."
+    },
+    {
+        "img_name": "t-seborrheic-keratoses-smooth-29.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-candidiasis-large-skin-folds-183.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "v-intertrigo-79.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0063652.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a structure consistent with a blood vessel, identifiable by the presence of a lumen and surrounding endothelial cells."
+    },
+    {
+        "img_name": "ISIC_0059115.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0027676.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0031644.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by a cluster of cells within the epidermis."
+    },
+    {
+        "img_name": "t-stasis-dermatitis-153.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0010047.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-eczema-face-7.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of the skin with a visible inflammatory infiltrate, characterized by the presence of redness and possible swelling."
+    },
+    {
+        "img_name": "ISIC_0012737_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0026669.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0013562_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis, identifiable by the presence of collagen fibers and the arrangement of dermal structures."
+    },
+    {
+        "img_name": "ISIC_0025805.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0015984_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0032634.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0069807.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0066115.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-Lichen-Sclerosus-Skin-35.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0030479.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0055673.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0031765.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "t-nevus-sebaceous-30.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "v-stasis-dermatitis-175.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells in the skin tissue."
+    },
+    {
+        "img_name": "t-tinea-groin-44.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0056895.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0000092_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0024836.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0058684.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_0013798_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0065490.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "1_41.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_7296554.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_7207715.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-Psoriasis-Chronic-Plaque-102.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0030622.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0026816.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "t-candidiasis-large-skin-folds-136.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of redness and swelling."
+    },
+    {
+        "img_name": "v-psoriasis-scalp-38.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with visible redness and small bumps, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0028781.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by numerous small, dark-staining cells within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0012879_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent pigmented lesion, which is indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-lichen-simplex-chronicus-187.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6974005.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent pigmented lesion, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0061456.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-tinea-versicolor-167.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-05AtopicPop1.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0061621.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a blood vessel with a prominent red area, indicative of vascular structures."
+    },
+    {
+        "img_name": "ISIC_0055415.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "4_8.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells indicative of an immune response."
+    },
+    {
+        "img_name": "ISIC_0014742_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "1_20.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0028962.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0067116.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-seborrheic-keratosis-irritated-111.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows numerous small, red, and inflamed areas on the skin, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0010201.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0013961_downsampled.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1\nDescription: The image shows a section of the epidermis with a focus on the skin surface."
+    },
+    {
+        "img_name": "ISIC_0030562.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "ISIC_0025184.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6934334.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei."
+    },
+    {
+        "img_name": "ISIC_7097665.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0012883_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0028405.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0031238.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a cluster of inflammatory cells, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0029355.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_6753364.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-Psoriasis-nails-29.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a close-up of a fingernail, which is part of the epidermis."
+    },
+    {
+        "img_name": "t-Pityriasis-Lichenoides-29.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a child with multiple red spots on the skin, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-eczema-subacute-60.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "8_8.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate in the skin tissue."
+    },
+    {
+        "img_name": "t-lichen-planus-114.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "7_14.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0071466.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0032022.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a network of blood vessels, indicative of blood vessel tissue."
+    },
+    {
+        "img_name": "t-Lichen-Planus-Oral-21.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of the tongue with a visible inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-neurotic-excoriations-15.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows multiple areas of erythema and pustules, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0032335.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7595351.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "v-melanoma-mimic-2.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "t-nevus-sebaceous-28.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "t-05Atopic12012.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with redness and small pustules, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "v-tinea-face-47.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate."
+    },
+    {
+        "img_name": "v-pityriasis-rosea-116.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0025079.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0031312.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis with a prominent pigment network, characteristic of melanocytic lesions."
+    },
+    {
+        "img_name": "v-neurotic-excoriations-22.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, indicative of an inflammatory process."
+    },
+    {
+        "img_name": "ISIC_0030295.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0026554.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "1_17.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows multiple areas of redness and inflammation, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-sebaceous-hyperplasia-92.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with multiple small, red, raised lesions, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "v-keratoacanthoma-151.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with an inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0027186.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: DERM\nDescription: The image shows a section of the dermis with a visible hair follicle and surrounding connective tissue."
+    },
+    {
+        "img_name": "ISIC_7272509.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by numerous small, round cells."
+    },
+    {
+        "img_name": "ISIC_0032714.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: 4\nDescription: The image shows a hair follicle with a visible hair shaft."
+    },
+    {
+        "img_name": "ISIC_0014780_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent pigmented lesion, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "t-seborrheic-keratoses-ruff-15.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "t-03Eczema0915.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0065489.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with a focus on the superficial layers of skin tissue."
+    },
+    {
+        "img_name": "t-eczema-nummular-150.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with redness and inflammation, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0028157.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by numerous small, round cells with darkly stained nuclei."
+    },
+    {
+        "img_name": "ISIC_0070512.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis."
+    },
+    {
+        "img_name": "v-Lichen-Planus-Hypertrophic-16.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0026821.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0025641.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense cluster of cells, indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0026389.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate, characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0069885.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_7498410.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense, darkly stained area indicative of an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_7593561.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "v-eczema-subacute-101.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of the skin with a visible inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_6853087.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the tissue."
+    },
+    {
+        "img_name": "ISIC_0026755.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a structure consistent with a blood vessel, characterized by the presence of a lumen and surrounding endothelial cells."
+    },
+    {
+        "img_name": "ISIC_0026504.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: BLOO\nDescription: The image shows a structure consistent with a blood vessel, characterized by the presence of a lumen and surrounding endothelial cells."
+    },
+    {
+        "img_name": "ISIC_0026155.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a section of the epidermis with a visible pigment network, characteristic of melanocytic lesions."
+    },
+    {
+        "img_name": "0_17.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate in the dermis."
+    },
+    {
+        "img_name": "ISIC_7341401.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, dark-staining cells."
+    },
+    {
+        "img_name": "v-psoriasis-digits-2.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a visible inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "t-tinea-foot-webs-53.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with significant inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0030452.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: HAIR\nDescription: The image shows a hair follicle with a visible hair shaft and surrounding skin."
+    },
+    {
+        "img_name": "ISIC_0059986.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0000999_downsampled.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0026935.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by a cluster of cells within the dermis."
+    },
+    {
+        "img_name": "ISIC_6816727.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "t-Dyshidrosis-16.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous inflammatory cells."
+    },
+    {
+        "img_name": "ISIC_0069552.jpg",
+        "status": "ID",
+        "matched_tag": "epidermis",
+        "raw_output": "Category: 1. EPID (Epidermis)\nDescription: The image shows a layered structure typical of the epidermis, with a clear arrangement of cells and pigmentation."
+    },
+    {
+        "img_name": "ISIC_0030355.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense, darkly pigmented area consistent with an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0029071.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate characterized by numerous small, round cells with dark nuclei, indicative of an inflammatory response."
+    },
+    {
+        "img_name": "ISIC_0031968.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense inflammatory infiltrate with numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0030768.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: 4\nDescription: The image shows a hair follicle with visible hair shafts and surrounding skin."
+    },
+    {
+        "img_name": "t-seborrheic-keratosis-irritated-179.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with an inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    },
+    {
+        "img_name": "ISIC_0033046.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows a dense, darkly pigmented area consistent with an inflammatory infiltrate."
+    },
+    {
+        "img_name": "ISIC_0071446.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: 4\nDescription: The image shows a hair follicle with visible hair shafts and associated structures."
+    },
+    {
+        "img_name": "ISIC_0028268.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells within the dermal layer."
+    },
+    {
+        "img_name": "t-eczema-asteatotic-50.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0027024.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area with a dense inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the dermal layer."
+    },
+    {
+        "img_name": "ISIC_0071214.jpg",
+        "status": "OOD",
+        "matched_tag": "None",
+        "raw_output": "Category: INFL\nDescription: The image shows an area of skin with a prominent inflammatory infiltrate, characterized by the presence of numerous small, round cells, likely lymphocytes, within the epidermis and dermis."
+    }
+]

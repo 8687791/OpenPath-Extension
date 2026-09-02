@@ -1,0 +1,2706 @@
+[
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FPHCFMVY.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KSSSPERD.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GHWFYSVG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-INAHDKES.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DRENHAVM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LMVSRPAC.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SVMDCNSC.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GHIVNPED.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SGTNHHPK.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DKVGEIWA.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SPYIFRNC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GNEHRACA.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DKLGCHPF.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-VFCNRSIW.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-YPVNQAHA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CLDTCSCM.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LAFSLYDC.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-HWYNDPWS.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-HLKDQSRK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-IRLMMHLW.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-IDDMWLTV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SLLAKQDP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-VHEVHHYN.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NAQCFCQF.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FADSWQSW.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WEGGYVCP.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-LACRTLFG.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QRTPEYMF.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-IRLWWVDK.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SEPTCADH.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris and necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TYQLRNMY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IMDFFTTR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-IYITLHAL.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CDCFAMIR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-DTRLDFAL.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QMFFEPCT.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EASEFAWT.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-PYAFFNQE.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-MWFYIGIP.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HNGELVTY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HPPIMTLH.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no cellular or tissue structures visible."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WVRCVNRN.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DYMPQSTK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular architecture, indicative of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MCMTIKFE.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LSMVGEKW.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MCPDLRSR.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RIPPHFGF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-IMIHRFQY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GPCTIVHA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MHHYAHLN.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CLGPIGFF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-LGNNIKCA.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FSIRFHIT.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MIDAAMPS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FDDSVTSM.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MDFGTTIH.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RVWGAENY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GNKSCFIY.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-HHCRGPRG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EDIVTKSN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-HHDEFFMI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FFPEIDIW.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RPDEPPAG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KVWQANVF.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FHAYPRWC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LLKYFADT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YKGQTLFS.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-EDTIPLQM.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RDYATQQH.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GVIPIVCK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-PEPEDFQW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EISMLDGY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-SMTYTTNM.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-CDGPCGTD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-QSQKAFCY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-QLMRNTTA.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GNMKNECT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-VKQNYMIR.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YLESIPGV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, indicative of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-LHLVYLIC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HSHYDFRK.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no cellular or tissue structures present."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NQLHWEHT.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NVMFHIDN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TVITPERM.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QMCKQNGK.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CDWPSHPH.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-RFSRDGHH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TSWFGNHK.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-EDVQMIAW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-YCGYHEYS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QYTYWGRC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-AWTVCQDK.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KKMDVEHF.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DSRYIGLP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CLTHMDFQ.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-WHWFVKWC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TGLYGRPG.tif",
+        "report": "Category: NORM  \nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TRRYHRQC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-AYPGIWVA.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-EHTTDAAE.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MSIAVLNH.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no cellular or tissue components visible."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DKPSMCCG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FKWMNQVG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WISDLSKG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-NWMAMDPY.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HIKDYHGY.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GCPRYIHW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IITSDDCR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KEKKGAEF.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SWCTVCDW.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-ASVQPDHY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GNHTDWWN.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-preserved crypts and glandular structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CSECQLYC.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-RISVCCYV.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-LETRNLYT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PQHQGMDY.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MQRLFPPM.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-preserved crypts and glandular structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NPFRLTGM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NVHGNDQS.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WDDRDCAL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PPKVKREV.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PTPPPIAM.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DRNVENLP.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RPDYSCND.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IGTFRNKR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-DSWHFKEH.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-SNCKARAH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KEHEYYWE.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-preserved crypts and glandular structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IKNGTKIR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LIQMGTNV.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no cellular or tissue components visible."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MFTCMVAQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ISTENHVC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EERPQDNN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EPYACRKN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NSDFRKRE.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TLCTVFYD.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GRVETLTV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TFIDCRHA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PHKEVHNT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RLMPPLWM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris and necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-CMKLVWPG.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SHHQSVSE.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-PILKYMNW.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-CWVNNNTC.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GINAKDHC.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-QWTILECR.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-EYGYGCMC.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VNQIVLMH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CFIQYWDC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-FNYFVQTH.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ETHGYATY.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present, indicative of an immune response."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TPEVKACQ.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GCNHENGK.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-STCRGERI.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NIVDGIPN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EMFIFWSI.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-AAAMHQMK.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LCNHPKEI.tif",
+        "report": "Category: LYM\nDescription: Dense lymphoid aggregates are present, indicative of lymphocytes."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QMQWASGR.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CKLCVNMG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EMEIYVGY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EQESHHNC.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CPAMWDPP.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ACCWGMYN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-EMFESSMR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DRVKYQKP.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LEPQTEWP.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RFLFIQLY.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-IMRHDKHW.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ILEIVGPD.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present, characterized by numerous small, round cells with darkly stained nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ALWHWVRV.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-FVNTSYWL.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EPEMEAIV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QHCECEGM.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present, indicative of an immune response."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LKGMELLA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-MFGICVRM.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SHCYMHHM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-ANENHTTI.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-DFYPFSQY.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NPKCTCST.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RFWTLVGT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EWSNKESP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-DESCPTLL.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-TSVPERYQ.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-SLLVCSKE.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LLGPPKRD.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CFRQYNWE.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WVMCPIYI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WTIDQKKS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EQGHHMYE.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-GRNVCMMS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DCYVICMQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-VVYTRMCR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KCGDMKFN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-NDLPVWDP.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EVCQQREP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RPGFILYT.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-AYEYMAWL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ELICGEDI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AMHWWKSN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KQLAPAPE.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-DRNNKSDH.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WGTWHTQQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-EPMTWPGR.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TKNLYNEW.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MSGIGWYC.tif",
+        "report": "Category: MUC\nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-NDTPDQSS.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NPAVSQAK.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QFYGWQQC.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CQEYKDDT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DIKLMAFH.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DTTYMLWM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HFFYWGIL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-VPQRHTLA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LMLYPYHI.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GDQQWHMN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HRHHQAVG.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SAFSKWTT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PTYNQQYH.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TVTKSFAF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GQMRKNPH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RCMKGWCW.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NLIYCTNK.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NSKYHMIQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GYEDFANN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TTEMICHP.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EHSNKAQK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QEAYEYFF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-ERILLKSR.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CCSWYLAW.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QSGNSFNG.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TNHTLDTY.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-YMTLFLSD.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-formed crypts and regular epithelial architecture."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-YTFANQLT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris and necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-IQLISPDF.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GNELKHRM.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HTIWHKCI.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LGDAISTF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QHKNPNST.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KCHLMLLL.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TLTFQTEW.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RPCVQAAS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-AFTMTAFS.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present, indicative of an immune response."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-WFKMLRVD.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HGPVHKRP.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DTLKGFNT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NNYLKIPI.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NPMQQVDN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-IYWVRYCS.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-AFWAKGSY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular architecture, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PTYQVCIL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SNEPEAVD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RVHWWIRI.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DVTYRGQF.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FWLSKVSS.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-DHWQYFRG.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-REKMWYCW.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GRHKPVLH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-INPWTPFR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RGAFLVIF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TQNDNQDN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-INNLVGSR.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YEQHQTRK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SRVKTCES.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DNALCDFR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TVQCWAYW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TMMYIYMH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GWPSYRSS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GVLFWNQG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IGPNRIAN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SACAHAMA.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MISWRLVD.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-HPNPEWLA.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-QNVRIYWY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WSRSMHHD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HHNKILKC.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-EWGKSIWS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-VEWMAWEV.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FYHMVSVW.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DGVCGGKD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EADRDNLY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NGMCEGTN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TLVDTCDI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-FLIHDSKV.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VFWFCDQV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LMSMPHMD.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-HVRIHFEG.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GGDFGQPE.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RMVSPYLI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SALDCACH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-KREGRRER.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PLHFAMQY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NMCCVIWQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PFVWLIMY.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PTPWGIIG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IHASANKQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SEAALPLS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QNDFEMSP.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IMEGWIQY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MPAMYRCY.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-STDMRGTF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NMVHATAV.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PIQRHPSM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris and necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NYYFKDFH.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-NNQMVGWA.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-EIWHQCVV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-FKYDWAER.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MCVHTLAA.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DSVLRRTS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VTGIDYME.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-DDDYDNTM.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-GKMPKGES.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-QWTFMWFT.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RPHINGIH.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DFKMIGFT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FKIRCCES.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-ILHCPCRM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CREHPEKN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LVWATHVQ.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no cellular or tissue components."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DGADVEWM.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RLSCPPLL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CSEGQEQI.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CLQDTRDL.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NIADSYYF.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LKWDEIIV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-DYDIMIQN.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-AGNQVTSI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WQWNQLAV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-AFSNGCTE.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-NFMLLMKI.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NDRGMKTG.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-SMFCFCYG.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-QQKLRIAN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AICKAMWM.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-DNFMMTME.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KLWGMWLL.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-HSAWCFNP.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present, characterized by numerous small, round cells with darkly stained nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-SINISPHQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YNSKCGIK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-NPWVKFVT.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ILNIVTPI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-HLCRIPQN.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DIGRHGPF.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AFTHEVPP.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LCQRIYYL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QITKLEHS.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DEAQFHSI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GWMYARPM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GNQHVGML.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YMVFDCIY.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-QVCHNRLV.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-ITPRHVYC.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ANYCCKSY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LKQVWYNY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LWEKGQCH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-HKNLTNPG.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KEGVATME.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VPVPQAEA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WASSCRAS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-GISRGGCM.tif",
+        "report": "Category: MUC\nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TYKYYEGV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HSPCECST.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-EMLFWEAI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PWPNFHTS.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-HMPFCRQW.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TIECGSEK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KEAMSSRS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MIERYHLC.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EPLSITVR.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-YSKHMFTG.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FFTEMKHC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-CWDGPGGW.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LEVTERHN.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MFQDMGHG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SWAAHFYH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NAMMLCHM.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LGMHNPYL.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no visible tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SALDVHTM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FAIKEEGK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HWCEGWVE.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-AAGYAITA.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MFLEWIAG.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RVPCNTWK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DNDELEWL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PKDGSVYE.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HLGAYESS.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-PWWLHGER.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PELTFPFW.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VLLQRWCC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MTEICNFG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TWLQWNYN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LECNFVGT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KAPMTQCV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MDFTALFH.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GDYAVRHP.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WHLYDGAM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-AGVCAFQK.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DEAEDALQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-LAHQGTDC.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GKPACVRL.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-SIGRCLHY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NDSHGRSQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DTLICTDC.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EWESSNYK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EAAEIQDY.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-DCLIAMDR.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, pale vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PCNVQFNG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PHFVAEVH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MGRLMKQG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MAESYFIM.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-MVNRTAWF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular architecture, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GFQKKQRW.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-KPWLNIKR.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-TECSWWDR.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-NLLVMWKR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YKWDVKWS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MVCATITS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-LTSMYFCP.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TKWRKGIS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-FPQIQEEW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MWRVIFHA.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-AAFLMMCV.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-AMGDEEAV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GYDVTWHR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-ICNQEIDR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-GHAQYLEY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IAKLYIQA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NRPQDNGR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PDHQNCKR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FVVYVATQ.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HKHRNDWN.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris and necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LTFKYWCT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-YACGANGY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KIPCHKTS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CQMFTVQC.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with intact crypts and glandular structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CKRLAPAW.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-FFDSYNRV.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IEEDTVMY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HDVAKQFI.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-DAGPPINF.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GYIDEDRH.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-DSDAWFAR.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FSPYCHHD.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FMHNTCLT.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EQRGDSTA.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MADNAHAQ.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-KPNRTPMN.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QWYGTVTV.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VTINIDAE.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NPHRRDPC.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KSCAYQKV.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TMRRLWYY.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RVYLLHQM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LQRLMCSQ.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no visible tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NNVLRQCE.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SMLKAGRD.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NGNIGNMD.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HHAKVSKQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ITDAEQPR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-AYIRNCWW.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GNYWLVLQ.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MIPSNWFC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PDTIGKLC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WHAPGIQL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-VDEHWPNC.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-HHDIPNDS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PMPAHEDV.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-THVGWMTF.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TSALQLAY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-FRESEAHK.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-HFMMQAQY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-ENNNEFVL.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MYFAELNL.tif",
+        "report": "Category: MUC\nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NWDRTQHP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FHIPFSAP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GFSYRSDT.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MRNWSCMW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SMHIYPFK.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ESPSDIDA.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CVHYTHLN.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FNICTACK.tif",
+        "report": "Category: LYM  \nDescription: Dense lymphoid aggregates are present, characterized by numerous small, round nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-CIDVYDAQ.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-SGCCNTRH.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KFLLKSYC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GEEMLQVL.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NNMMNEFT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FMKCHQTS.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TPNSYRSC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-ETALEWFW.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-EYAKLLAN.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-IVIAHEFH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DCNGVWMQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FIQECNQA.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-ECMPVQFF.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MTGFFKWC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PKHIMCVM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DFTPLLLE.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YCSLIRRC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WRPTWKHR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ITRDLPAC.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-LFPFDHHR.tif",
+        "report": "Category: MUC\nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CKFYWEHH.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NKQFLQGL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MSGSWKVS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KGLKKDVA.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-VQTQANRY.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-HERAHFYV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MNMLHREY.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-GKFFLYPV.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-VDPHQKMM.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RNLFDGYV.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-KTCRSTDS.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GAKMVHVI.tif",
+        "report": "Category: MUC\nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-MSGLCPQC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GQWAQGHN.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EAYELMIY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-GTPVTHHY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-LGQWDRID.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-HPIGWNCM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ACICLMVW.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WQGVTKVQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PSNSRRAE.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-VGLAYRCG.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-PLPSMYDS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-AFNPLAKF.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-KINIQLFN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DFMISWAF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HACGCTYS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TYQYCIWM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FVNMYVYP.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GICIKDKK.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no visible histological structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CCTPIAAI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HYQGWKRL.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GLSLCEQC.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IHLYLEVI.tif",
+        "report": "Category: BACK  \nDescription: Clear glass slide with no cellular or tissue structures visible."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YWHMEIQG.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FILDAMCK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-AGNNHQYM.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-WPCQIPDI.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NRMSTEPD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PMRPFVMR.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DMIEKKKY.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-FRKQVIIF.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SKSTLRWD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-NKHGVFIT.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CWVNAPDC.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LLHKCDHL.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-EHKHTGDH.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QYTGSYIQ.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DGKFVYHY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YDVWNIDC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YAAENANH.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-PGTHIRHD.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SVWIWMGS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KEWGEDIQ.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant cellular or tissue structures present."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PHYHAEQD.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SLSHEHCG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-PVIHNECW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MIPKSQVR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-HQMFEGYH.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IPWWIPVP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-ISFGRMHD.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-PADPPFDW.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-RKDKVMTW.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SFTHIIDW.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KQIENHYI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SNVNGDKS.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-FTHRFNWE.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RGPDLFVH.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-DFMERHKQ.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PWDYHFPQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-FRQTKGDF.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-EQLPFWCD.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QRCFQQRM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FPYRCMTK.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide with no significant histological features."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-FKAHTNCY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NGTKYHAM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TMSYLQPV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-SRKCCMNY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PGYWIMPQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-QRLFIQAN.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WWMRAMIR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QKAWFELY.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-preserved crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WYLCRASE.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CVEQIKAP.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LWANCCGQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DVLWMTKQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-ERNGVWIS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-AQYHLCLH.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LCMYWFVE.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RQSDYENE.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-INCPQDPT.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-FERPPKDI.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PTITKGFS.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-QYQLECLN.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QFYDVHHY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TYVDNGHM.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HECWMWHR.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RENPIFYS.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WTHDSCKV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MNEHMFKG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-DQFFFDKE.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-NIDPMCGM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PSFIRNRR.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-PKHQSCEN.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-ALKKYAGR.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-TERGHVQT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QIQKIIIV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-ACGGQEQL.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EYFDQFWP.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-AEYRDACR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-AFRSNVNL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QALDGCNI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-VFKYMKLK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DKCSCNGA.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IEMKRLSK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PWEQVMRV.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CHMNGMPS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EVAQNCDS.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-PVFVVNQY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PFRMGDMM.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-AYMTVAKK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GSSAIIAI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-AYHALFII.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SVGCYQNR.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-ICIKKNEK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-IQHKRDMT.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YNCKTKDF.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MLWGLPQF.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IKTVHSVT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EGDQTCRP.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded nuclei, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-CNWGPQVT.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LFIMQGYR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ENIKIRCY.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NNLWIEMN.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LEKPQDGK.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YVFAIHIH.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular architecture, characteristic of adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-EYDPWEID.tif",
+        "report": "Category: BACK  \nDescription: The image shows a clear glass slide without any cellular or tissue structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KKPEYNSE.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PPAHCVQV.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GHVAIHIS.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PQLMFWSR.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EENRDCAK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GMTGGNAL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GHNHNSFM.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-AKPKIFQV.tif",
+        "report": "Category: TUM\nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-ESQESPGC.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NGCQPSVW.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KHHFVMHQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MMYPPQDA.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-TSSCMDQC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-YNQCLVII.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MGCYKCTD.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LSQIYTKV.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RDNISGGL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TSPAGSFC.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-ALSEAAPN.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FPKHRHHQ.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RCIPDMVL.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-MDAFGVTQ.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-organized crypts and goblet cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PAINPSCV.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, empty fat vacuoles."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MVWIFHEE.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures consistent with adenocarcinoma epithelium."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-KEYHIKPQ.tif",
+        "report": "Category: NORM\nDescription: The image shows normal mucosa with well-preserved crypts and glandular structures."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GKYAEFEE.tif",
+        "report": "Category: ADI  \nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-HTNDVPPP.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-HRQFEFGD.tif",
+        "report": "Category: MUS\nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-PGLVTDMQ.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QNRTAEKD.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-GCCFDITW.tif",
+        "report": "Category: ADI\nDescription: The image shows adipose tissue with large, clear vacuoles characteristic of fat cells."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-QRPDGLEW.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GKPKQWIY.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IHMNQTTI.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SIYCCKWW.tif",
+        "report": "Category: MUC  \nDescription: The image shows pale mucin pools, indicative of mucus presence."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-CSTASCNI.tif",
+        "report": "Category: MUS  \nDescription: Dense parallel bundles of smooth muscle fibers with blunt-ended cigar-shaped nuclei."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MFMYIGCK.tif",
+        "report": "Category: TUM  \nDescription: The image shows malignant glandular structures with irregular, crowded glands and nuclear atypia, characteristic of adenocarcinoma."
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ETGMWHEG.tif",
+        "report": "Category: DEB\nDescription: The image shows amorphous pink necrotic breakdown, indicative of debris or necrosis."
+    }
+]

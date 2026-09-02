@@ -1,0 +1,6 @@
+Round,Query_Precision_QP,Candidate_Pool_Precision,Test_Accuracy,F1_Score_Macro,Recall_Macro,Precision_Macro
+Round_0,1.0,1.0,1.0,1.0,1.0,1.0
+Round_1,1.0,1.0,1.0,1.0,1.0,1.0
+Round_2,1.0,1.0,1.0,1.0,1.0,1.0
+Round_3,1.0,1.0,1.0,1.0,1.0,1.0
+Round_4,1.0,1.0,1.0,1.0,1.0,1.0

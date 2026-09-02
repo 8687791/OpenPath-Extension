@@ -175,9 +175,9 @@ def main():
 
     train_df = pd.read_csv('al_file/train.csv')
     
-    if len(train_df) > 1000:
-        print(f"⚠️ 检测到原始数据量巨大 ({len(train_df)}张)。正在随机采样 1000 张作为冷启动精选池...")
-        train_df = train_df.sample(n=1000, random_state=42).reset_index(drop=True)
+    if len(train_df) > 600:
+        print(f"⚠️ 检测到原始数据量巨大 ({len(train_df)}张)。正在随机采样 600 张作为冷启动精选池...")
+        train_df = train_df.sample(n=600, random_state=42).reset_index(drop=True)
     train_files = train_df.to_dict('records')
     
     train_dataset = Tumor_dataset_val(args, train_files)
